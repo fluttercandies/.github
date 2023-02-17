@@ -2,7 +2,7 @@ name: Flutter plugin bug report
 description: bug report
 title: "[Bug report] "
 labels:
-  - "Type: Bug"
+  - "Type: bug"
   - "Status: Unconfirmed"
 body:
   - type: input
