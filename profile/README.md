@@ -92,12 +92,11 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [flutter_candies_jpush](https://github.com/fluttercandies/flutter_candies_jpush) | 极光Flutter推送插件 | 1 | 2022-06-13T02:40:48Z |
 | [flutter_clean](https://github.com/fluttercandies/flutter_clean) | help clean all of Flutter and Dart projects | 1 | 2022-05-30T03:19:53Z |
 | [env2dart](https://github.com/fluttercandies/env2dart) | A simple way to generate  code from a  file. | 1 | 2023-03-22T05:54:17Z |
-| [flutter_files_downloader](https://github.com/fluttercandies/flutter_files_downloader) | <no description> | 0 | 2021-10-25T03:11:08Z |
 | [upgrade_tool](https://github.com/fluttercandies/upgrade_tool) | Resolve warnings caused by xxxbinding. Instance in Flutter 3.0 | 0 | 2022-06-03T04:09:31Z |
 | [scan_barcode](https://github.com/fluttercandies/scan_barcode) | Barcode/QRCode scan, base of google mikit. | 0 | 2023-03-30T13:28:34Z |
 
 
 </details>
 
-Created on 2023-03-30T15:07:30+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+Created on 2023-03-30T15:32:12+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
 
