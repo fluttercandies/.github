@@ -94,9 +94,10 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [env2dart](https://github.com/fluttercandies/env2dart) | A simple way to generate  code from a  file. | 1 | 2023-03-22T05:54:17Z |
 | [flutter_files_downloader](https://github.com/fluttercandies/flutter_files_downloader) | <no description> | 0 | 2021-10-25T03:11:08Z |
 | [upgrade_tool](https://github.com/fluttercandies/upgrade_tool) | Resolve warnings caused by xxxbinding. Instance in Flutter 3.0 | 0 | 2022-06-03T04:09:31Z |
+| [scan_barcode](https://github.com/fluttercandies/scan_barcode) | Barcode/QRCode scan, base of google mikit. | 0 | 2023-03-30T13:28:34Z |
 
 
 </details>
 
-Created on 2023-03-30T13:14:05+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+Created on 2023-03-30T13:37:35+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
 
