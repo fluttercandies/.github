@@ -11,7 +11,7 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [wechat_flutter](https://github.com/fluttercandies/wechat_flutter) | wechat_flutter  Flutter版本微信，一个优秀的Flutter即时通讯IM开源库！ | 2233 | 2023-03-30T08:35:13Z |
 | [NeteaseCloudMusic](https://github.com/fluttercandies/NeteaseCloudMusic) | Flutter - NeteaseCloudMusic  Flutter 版本的网易云音乐 | 1737 | 2023-03-14T11:26:32Z |
 | [extended_image](https://github.com/fluttercandies/extended_image) | A powerful official extension library of image, which support placeholder(loading)/ failed state, cache network, zoom pan image, photo view, slide out page, editor(crop,rotate,flip), paint custom etc. | 1630 | 2023-03-29T06:30:26Z |
-| [flutter_wechat_assets_picker](https://github.com/fluttercandies/flutter_wechat_assets_picker) | An image picker (also with videos and audios) for Flutter projects based on the WeChat's UI. | 1206 | 2023-03-29T07:06:20Z |
+| [flutter_wechat_assets_picker](https://github.com/fluttercandies/flutter_wechat_assets_picker) | An image picker (also with videos and audios) for Flutter projects based on the WeChat's UI. | 1207 | 2023-03-30T09:41:15Z |
 | [flutter_candies](https://github.com/fluttercandies/flutter_candies) | custom flutter candies(widgets) for you to build flutter app easily, enjoy it   | 787 | 2023-03-27T11:26:56Z |
 | [flutter_smart_dialog](https://github.com/fluttercandies/flutter_smart_dialog) | An elegant Flutter Dialog solution \| 一种更优雅的 Flutter Dialog 解决方案 | 786 | 2023-03-30T04:58:40Z |
 | [flutter_photo_manager](https://github.com/fluttercandies/flutter_photo_manager) | A Flutter plugin that provides images, videos, and audio abstraction management APIs without interface integration, available on Android, iOS, and macOS. | 538 | 2023-03-28T08:53:44Z |
@@ -25,7 +25,7 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [flutter_image_editor](https://github.com/fluttercandies/flutter_image_editor) | Flutter plugin, support android/ios.Support crop, flip, rotate, color martix, mix image, add text. merge multi images. | 324 | 2023-03-27T11:27:19Z |
 | [waterfall_flow](https://github.com/fluttercandies/waterfall_flow) | A Flutter grid view which supports waterfall flow layout. | 303 | 2023-03-29T01:22:36Z |
 | [loading_more_list](https://github.com/fluttercandies/loading_more_list) | A loading more list which supports ListView,GridView,WaterfallFlow and Slivers. | 295 | 2023-03-22T11:42:33Z |
-| [flutter_wechat_camera_picker](https://github.com/fluttercandies/flutter_wechat_camera_picker) | A camera picker (take photos and videos) for Flutter projects based on WeChat's UI. It's a standalone module of wechat_assets_picker yet it can be run separately. | 278 | 2023-03-23T14:43:18Z |
+| [flutter_wechat_camera_picker](https://github.com/fluttercandies/flutter_wechat_camera_picker) | A camera picker (take photos and videos) for Flutter projects based on WeChat's UI. It's a standalone module of wechat_assets_picker yet it can be run separately. | 279 | 2023-03-30T09:40:51Z |
 | [FlutterJsonBeanFactory](https://github.com/fluttercandies/FlutterJsonBeanFactory) | What I do is generate dart beans based on json, as well as generics parameters and json build instances | 206 | 2023-03-14T01:56:33Z |
 | [extended_tabs](https://github.com/fluttercandies/extended_tabs) | A powerful official extension library of Tab/TabBar/TabView, which support to scroll ancestor or child Tabs when current is overscroll, and set scroll direction and cache extent. | 198 | 2023-03-29T08:37:19Z |
 | [pull_to_refresh_notification](https://github.com/fluttercandies/pull_to_refresh_notification) | Flutter plugin for building pull to refresh effects with PullToRefreshNotification and PullToRefreshContainer quickly. | 165 | 2023-03-06T13:54:08Z |
@@ -69,8 +69,8 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [candies_analyzer_plugin](https://github.com/fluttercandies/candies_analyzer_plugin) | The plugin to help create custom analyzer plugin quickly and provide some useful lints and get suggestion and auto import for extension member. | 11 | 2023-02-20T06:47:04Z |
 | [flutter_float_window](https://github.com/fluttercandies/flutter_float_window) | flutter_float_window是一个悬浮窗插件，具备悬浮窗权限申请等功能 | 10 | 2022-03-23T06:42:02Z |
 | [flutter_candies_gallery](https://github.com/fluttercandies/flutter_candies_gallery) | flutter_candies | 9 | 2023-02-21T20:28:51Z |
+| [saver_gallery](https://github.com/fluttercandies/saver_gallery) | <no description> | 9 | 2023-03-30T09:55:39Z |
 | [adaptation](https://github.com/fluttercandies/adaptation) | Screen for adaptation. | 8 | 2022-10-18T08:11:53Z |
-| [saver_gallery](https://github.com/fluttercandies/saver_gallery) | <no description> | 8 | 2023-03-24T14:41:18Z |
 | [w_reorder_list](https://github.com/fluttercandies/w_reorder_list) | <no description> | 7 | 2020-10-16T08:25:13Z |
 | [properties](https://github.com/fluttercandies/properties) | Load properties format in dart or flutter | 7 | 2023-02-12T03:27:23Z |
 | [JsonToDartWeb](https://github.com/fluttercandies/JsonToDartWeb) | JsonToDart Web 带字体文件 | 6 | 2021-01-05T03:36:26Z |
@@ -98,5 +98,5 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 
 </details>
 
-Created on 2023-03-30T09:31:53+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+Created on 2023-03-30T10:07:47+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
 
