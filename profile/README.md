@@ -88,15 +88,15 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [dext](https://github.com/fluttercandies/dext) | Some extension for dart | 3 | 2023-03-29T13:16:20Z |
 | [ff_native_screenshot](https://github.com/fluttercandies/ff_native_screenshot) | A Flutter plugin to take or listen screenshot(support Platform Views) for Android and iOS with native code. | 3 | 2022-08-26T09:31:25Z |
 | [blue_flutter](https://github.com/fluttercandies/blue_flutter) | blue_flutter是flutter的蓝牙通讯插件 | 2 | 2021-02-22T01:22:32Z |
+| [scan_barcode](https://github.com/fluttercandies/scan_barcode) | Barcode/QRCode scan, base of google mikit. | 2 | 2023-03-31T05:35:07Z |
 | [flutter_bindings_compatible](https://github.com/fluttercandies/flutter_bindings_compatible) | Provides compatible bindings instance across different Flutter version. | 1 | 2022-05-16T01:14:38Z |
 | [flutter_candies_jpush](https://github.com/fluttercandies/flutter_candies_jpush) | 极光Flutter推送插件 | 1 | 2022-06-13T02:40:48Z |
 | [flutter_clean](https://github.com/fluttercandies/flutter_clean) | help clean all of Flutter and Dart projects | 1 | 2022-05-30T03:19:53Z |
 | [env2dart](https://github.com/fluttercandies/env2dart) | A simple way to generate  code from a  file. | 1 | 2023-03-22T05:54:17Z |
 | [upgrade_tool](https://github.com/fluttercandies/upgrade_tool) | Resolve warnings caused by xxxbinding. Instance in Flutter 3.0 | 0 | 2022-06-03T04:09:31Z |
-| [scan_barcode](https://github.com/fluttercandies/scan_barcode) | Barcode/QRCode scan, base of google mikit. | 0 | 2023-03-30T13:28:34Z |
 
 
 </details>
 
-Created on 2023-03-31T05:14:07+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+Created on 2023-03-31T05:36:10+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
 
