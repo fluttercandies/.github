@@ -77,12 +77,12 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [loading_more_list_library](https://github.com/fluttercandies/loading_more_list_library) | dart package library for LoadingMoreList, it provides core classes. | 6 | 2022-11-02T14:50:33Z |
 | [flutter_candies_demo_library](https://github.com/fluttercandies/flutter_candies_demo_library) |  package library for demo of flutter candies, it provides core classes. | 6 | 2021-04-19T15:49:10Z |
 | [coordtransform](https://github.com/fluttercandies/coordtransform) | A coord transform tool. 提供百度坐标系(BD-09)、火星坐标系(国测局坐标系、GCJ02)、WGS84坐标系的相互转换。 | 6 | 2022-07-22T00:41:39Z |
+| [scan_barcode](https://github.com/fluttercandies/scan_barcode) | Barcode/QRCode scan, base of google mikit. | 5 | 2023-04-01T15:46:23Z |
 | [CandiesBot](https://github.com/fluttercandies/CandiesBot) | <no description> | 4 | 2022-07-07T08:39:39Z |
 | [ff_annotation_route_library](https://github.com/fluttercandies/ff_annotation_route_library) | The library for ff_annotation_route | 4 | 2022-07-20T11:30:17Z |
 | [flutter_challenges](https://github.com/fluttercandies/flutter_challenges) | Just do the first one, don't do second who. | 4 | 2021-11-12T08:32:04Z |
 | [douget](https://github.com/fluttercandies/douget) | <no description> | 4 | 2023-01-03T23:44:14Z |
 | [sync_scroll_library](https://github.com/fluttercandies/sync_scroll_library) | The library for extended_tabs and flex_grid | 4 | 2022-08-10T07:53:17Z |
-| [scan_barcode](https://github.com/fluttercandies/scan_barcode) | Barcode/QRCode scan, base of google mikit. | 4 | 2023-03-31T07:12:49Z |
 | [simple_provider](https://github.com/fluttercandies/simple_provider) | flutter simple provider | 3 | 2020-05-06T07:21:02Z |
 | [flutter_candies_package_tools](https://github.com/fluttercandies/flutter_candies_package_tools) | tool to create package and demo | 3 | 2020-09-04T08:13:33Z |
 | [ff_annotation_route_core](https://github.com/fluttercandies/ff_annotation_route_core) | The core library for ff_annotation_route | 3 | 2022-08-09T10:14:42Z |
@@ -98,5 +98,5 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 
 </details>
 
-Created on 2023-04-01T15:36:28+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+Created on 2023-04-01T16:17:48+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
 
