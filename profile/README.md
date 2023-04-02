@@ -8,7 +8,7 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 
 | Name | Description | Stars | Latest Commit |
 | ---- | --- | ----------- | ------------- |
-| [wechat_flutter](https://github.com/fluttercandies/wechat_flutter) | wechat_flutter  Flutter版本微信，一个优秀的Flutter即时通讯IM开源库！ | 2235 | 2023-03-31T03:50:35Z |
+| [wechat_flutter](https://github.com/fluttercandies/wechat_flutter) | wechat_flutter  Flutter版本微信，一个优秀的Flutter即时通讯IM开源库！ | 2236 | 2023-04-02T15:13:57Z |
 | [NeteaseCloudMusic](https://github.com/fluttercandies/NeteaseCloudMusic) | Flutter - NeteaseCloudMusic  Flutter 版本的网易云音乐 | 1737 | 2023-03-14T11:26:32Z |
 | [extended_image](https://github.com/fluttercandies/extended_image) | A powerful official extension library of image, which support placeholder(loading)/ failed state, cache network, zoom pan image, photo view, slide out page, editor(crop,rotate,flip), paint custom etc. | 1630 | 2023-03-29T06:30:26Z |
 | [flutter_wechat_assets_picker](https://github.com/fluttercandies/flutter_wechat_assets_picker) | An image picker (also with videos and audios) for Flutter projects based on the WeChat's UI. | 1209 | 2023-04-01T14:41:18Z |
@@ -77,7 +77,7 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [loading_more_list_library](https://github.com/fluttercandies/loading_more_list_library) | dart package library for LoadingMoreList, it provides core classes. | 6 | 2022-11-02T14:50:33Z |
 | [flutter_candies_demo_library](https://github.com/fluttercandies/flutter_candies_demo_library) |  package library for demo of flutter candies, it provides core classes. | 6 | 2021-04-19T15:49:10Z |
 | [coordtransform](https://github.com/fluttercandies/coordtransform) | A coord transform tool. 提供百度坐标系(BD-09)、火星坐标系(国测局坐标系、GCJ02)、WGS84坐标系的相互转换。 | 6 | 2022-07-22T00:41:39Z |
-| [scan_barcode](https://github.com/fluttercandies/scan_barcode) | Barcode/QRCode scan, base of google mikit. | 5 | 2023-04-01T15:46:23Z |
+| [scan_barcode](https://github.com/fluttercandies/scan_barcode) | Barcode/QRCode scan, base of google mikit. | 6 | 2023-04-02T15:17:21Z |
 | [CandiesBot](https://github.com/fluttercandies/CandiesBot) | <no description> | 4 | 2022-07-07T08:39:39Z |
 | [ff_annotation_route_library](https://github.com/fluttercandies/ff_annotation_route_library) | The library for ff_annotation_route | 4 | 2022-07-20T11:30:17Z |
 | [flutter_challenges](https://github.com/fluttercandies/flutter_challenges) | Just do the first one, don't do second who. | 4 | 2021-11-12T08:32:04Z |
@@ -98,5 +98,5 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 
 </details>
 
-Created on 2023-04-02T15:13:13+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+Created on 2023-04-02T15:36:15+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
 
