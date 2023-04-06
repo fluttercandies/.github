@@ -82,12 +82,12 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [ff_annotation_route_library](https://github.com/fluttercandies/ff_annotation_route_library) | The library for ff_annotation_route | 4 | 2022-07-20T11:30:17Z |
 | [flutter_challenges](https://github.com/fluttercandies/flutter_challenges) | Just do the first one, don't do second who. | 4 | 2021-11-12T08:32:04Z |
 | [douget](https://github.com/fluttercandies/douget) | <no description> | 4 | 2023-01-03T23:44:14Z |
+| [ff_native_screenshot](https://github.com/fluttercandies/ff_native_screenshot) | A Flutter plugin to take or listen screenshot(support Platform Views) for Android and iOS with native code. | 4 | 2023-04-06T14:59:33Z |
 | [sync_scroll_library](https://github.com/fluttercandies/sync_scroll_library) | The library for extended_tabs and flex_grid | 4 | 2022-08-10T07:53:17Z |
 | [simple_provider](https://github.com/fluttercandies/simple_provider) | flutter simple provider | 3 | 2020-05-06T07:21:02Z |
 | [flutter_candies_package_tools](https://github.com/fluttercandies/flutter_candies_package_tools) | tool to create package and demo | 3 | 2020-09-04T08:13:33Z |
 | [ff_annotation_route_core](https://github.com/fluttercandies/ff_annotation_route_core) | The core library for ff_annotation_route | 3 | 2022-08-09T10:14:42Z |
 | [dext](https://github.com/fluttercandies/dext) | Some extension for dart | 3 | 2023-03-29T13:16:20Z |
-| [ff_native_screenshot](https://github.com/fluttercandies/ff_native_screenshot) | A Flutter plugin to take or listen screenshot(support Platform Views) for Android and iOS with native code. | 3 | 2022-08-26T09:31:25Z |
 | [blue_flutter](https://github.com/fluttercandies/blue_flutter) | blue_flutter是flutter的蓝牙通讯插件 | 2 | 2021-02-22T01:22:32Z |
 | [flutter_bindings_compatible](https://github.com/fluttercandies/flutter_bindings_compatible) | Provides compatible bindings instance across different Flutter version. | 1 | 2022-05-16T01:14:38Z |
 | [flutter_candies_jpush](https://github.com/fluttercandies/flutter_candies_jpush) | 极光Flutter推送插件 | 1 | 2022-06-13T02:40:48Z |
@@ -98,5 +98,5 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 
 </details>
 
-Created on 2023-04-06T14:36:22+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+Created on 2023-04-06T15:13:21+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
 
