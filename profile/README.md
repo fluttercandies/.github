@@ -14,7 +14,7 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [flutter_wechat_assets_picker](https://github.com/fluttercandies/flutter_wechat_assets_picker) | An image picker (also with videos and audios) for Flutter projects based on the WeChat's UI. | 1220 | 2023-04-13T14:55:59Z |
 | [flutter_smart_dialog](https://github.com/fluttercandies/flutter_smart_dialog) | An elegant Flutter Dialog solution \| 一种更优雅的 Flutter Dialog 解决方案 | 797 | 2023-04-15T02:14:11Z |
 | [flutter_candies](https://github.com/fluttercandies/flutter_candies) | custom flutter candies(widgets) for you to build flutter app easily, enjoy it   | 787 | 2023-03-27T11:26:56Z |
-| [flutter_photo_manager](https://github.com/fluttercandies/flutter_photo_manager) | A Flutter plugin that provides images, videos, and audio abstraction management APIs without interface integration, available on Android, iOS, and macOS. | 549 | 2023-04-14T05:02:56Z |
+| [flutter_photo_manager](https://github.com/fluttercandies/flutter_photo_manager) | A Flutter plugin that provides images, videos, and audio abstraction management APIs without interface integration, available on Android, iOS, and macOS. | 549 | 2023-04-15T02:51:35Z |
 | [flutter_image_compress](https://github.com/fluttercandies/flutter_image_compress) | flutter image compress | 527 | 2023-04-14T20:57:31Z |
 | [extended_text](https://github.com/fluttercandies/extended_text) | A powerful extended official text for Flutter, which supports Speical Text(Image,@somebody), Custom Background, Custom overFlow, Text Selection. | 525 | 2023-04-14T10:35:07Z |
 | [flutter_custom_calendar](https://github.com/fluttercandies/flutter_custom_calendar) | Flutter的一个日历控件 | 490 | 2023-04-10T13:09:17Z |
@@ -59,7 +59,7 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [flutter_qweather](https://github.com/fluttercandies/flutter_qweather) | 和风天气  Flutter 插件 | 20 | 2023-03-15T07:14:24Z |
 | [flutter_ali_auth](https://github.com/fluttercandies/flutter_ali_auth) | Flutter Ali Auth Plugin 阿里云一键登录Flutter插件 | 19 | 2023-03-28T08:13:04Z |
 | [flutter_live_activities](https://github.com/fluttercandies/flutter_live_activities) | Flutter Live Activities Plugin | 19 | 2023-01-15T13:24:41Z |
-| [baidupan](https://github.com/fluttercandies/baidupan) | Baidu net disk api for dart, 百度网盘的 dart 库 | 18 | 2023-04-13T02:53:00Z |
+| [baidupan](https://github.com/fluttercandies/baidupan) | Baidu net disk api for dart, 百度网盘的 dart 库 | 18 | 2023-04-15T02:50:58Z |
 | [extra_hittest_area](https://github.com/fluttercandies/extra_hittest_area) | Manually add the extra hitTest area of a widget without changing its size or layout. | 17 | 2023-03-08T11:35:38Z |
 | [flutter_mlkit_scan_plugin](https://github.com/fluttercandies/flutter_mlkit_scan_plugin) | <no description> | 15 | 2023-03-12T09:04:47Z |
 | [flutter_slider_view](https://github.com/fluttercandies/flutter_slider_view) | A slider view widget that supports custom type models and various configs. | 15 | 2022-08-17T12:45:56Z |
@@ -98,5 +98,5 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 
 </details>
 
-Created on 2023-04-15T02:43:42+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+Created on 2023-04-15T03:14:48+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
 
