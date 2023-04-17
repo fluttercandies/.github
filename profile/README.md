@@ -12,9 +12,9 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [NeteaseCloudMusic](https://github.com/fluttercandies/NeteaseCloudMusic) | Flutter - NeteaseCloudMusic  Flutter 版本的网易云音乐 | 1738 | 2023-04-12T14:13:24Z |
 | [extended_image](https://github.com/fluttercandies/extended_image) | A powerful official extension library of image, which support placeholder(loading)/ failed state, cache network, zoom pan image, photo view, slide out page, editor(crop,rotate,flip), paint custom etc. | 1638 | 2023-04-17T05:30:09Z |
 | [flutter_wechat_assets_picker](https://github.com/fluttercandies/flutter_wechat_assets_picker) | An image picker (also with videos and audios) for Flutter projects based on the WeChat's UI. | 1221 | 2023-04-16T06:16:41Z |
-| [flutter_smart_dialog](https://github.com/fluttercandies/flutter_smart_dialog) | An elegant Flutter Dialog solution \| 一种更优雅的 Flutter Dialog 解决方案 | 799 | 2023-04-17T06:41:27Z |
+| [flutter_smart_dialog](https://github.com/fluttercandies/flutter_smart_dialog) | An elegant Flutter Dialog solution \| 一种更优雅的 Flutter Dialog 解决方案 | 800 | 2023-04-17T07:59:39Z |
 | [flutter_candies](https://github.com/fluttercandies/flutter_candies) | custom flutter candies(widgets) for you to build flutter app easily, enjoy it   | 787 | 2023-03-27T11:26:56Z |
-| [flutter_photo_manager](https://github.com/fluttercandies/flutter_photo_manager) | A Flutter plugin that provides images, videos, and audio abstraction management APIs without interface integration, available on Android, iOS, and macOS. | 550 | 2023-04-16T17:41:16Z |
+| [flutter_photo_manager](https://github.com/fluttercandies/flutter_photo_manager) | A Flutter plugin that provides images, videos, and audio abstraction management APIs without interface integration, available on Android, iOS, and macOS. | 551 | 2023-04-17T07:50:34Z |
 | [flutter_image_compress](https://github.com/fluttercandies/flutter_image_compress) | flutter image compress | 528 | 2023-04-16T13:17:11Z |
 | [extended_text](https://github.com/fluttercandies/extended_text) | A powerful extended official text for Flutter, which supports Speical Text(Image,@somebody), Custom Background, Custom overFlow, Text Selection. | 526 | 2023-04-15T16:59:31Z |
 | [flutter_custom_calendar](https://github.com/fluttercandies/flutter_custom_calendar) | Flutter的一个日历控件 | 490 | 2023-04-10T13:09:17Z |
@@ -98,5 +98,5 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 
 </details>
 
-Created on 2023-04-17T07:36:25+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+Created on 2023-04-17T08:19:31+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
 
