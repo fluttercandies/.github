@@ -15,7 +15,7 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [flutter_smart_dialog](https://github.com/fluttercandies/flutter_smart_dialog) | An elegant Flutter Dialog solution \| 一种更优雅的 Flutter Dialog 解决方案 | 800 | 2023-04-17T07:59:39Z |
 | [flutter_candies](https://github.com/fluttercandies/flutter_candies) | custom flutter candies(widgets) for you to build flutter app easily, enjoy it   | 787 | 2023-03-27T11:26:56Z |
 | [flutter_photo_manager](https://github.com/fluttercandies/flutter_photo_manager) | A Flutter plugin that provides images, videos, and audio abstraction management APIs without interface integration, available on Android, iOS, and macOS. | 551 | 2023-04-17T07:50:34Z |
-| [flutter_image_compress](https://github.com/fluttercandies/flutter_image_compress) | flutter image compress | 528 | 2023-04-16T13:17:11Z |
+| [flutter_image_compress](https://github.com/fluttercandies/flutter_image_compress) | flutter image compress | 529 | 2023-04-18T14:15:56Z |
 | [extended_text](https://github.com/fluttercandies/extended_text) | A powerful extended official text for Flutter, which supports Speical Text(Image,@somebody), Custom Background, Custom overFlow, Text Selection. | 526 | 2023-04-15T16:59:31Z |
 | [flutter_custom_calendar](https://github.com/fluttercandies/flutter_custom_calendar) | Flutter的一个日历控件 | 490 | 2023-04-10T13:09:17Z |
 | [extended_nested_scroll_view](https://github.com/fluttercandies/extended_nested_scroll_view) | extended nested scroll view to fix following issues.  1.pinned sliver header issue  2.inner scrollables in tabview sync issue  3.pull to refresh is not work. 4.do without ScrollController in NestedScrollView's body | 487 | 2023-04-12T07:49:36Z |
@@ -73,11 +73,11 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [adaptation](https://github.com/fluttercandies/adaptation) | Screen for adaptation. | 8 | 2022-10-18T08:11:53Z |
 | [w_reorder_list](https://github.com/fluttercandies/w_reorder_list) | <no description> | 7 | 2020-10-16T08:25:13Z |
 | [properties](https://github.com/fluttercandies/properties) | Load properties format in dart or flutter | 7 | 2023-02-12T03:27:23Z |
+| [scan_barcode](https://github.com/fluttercandies/scan_barcode) | Barcode/QRCode scan, base of google mikit. | 7 | 2023-04-18T14:16:27Z |
 | [JsonToDartWeb](https://github.com/fluttercandies/JsonToDartWeb) | JsonToDart Web 带字体文件 | 6 | 2021-01-05T03:36:26Z |
 | [loading_more_list_library](https://github.com/fluttercandies/loading_more_list_library) | dart package library for LoadingMoreList, it provides core classes. | 6 | 2022-11-02T14:50:33Z |
 | [flutter_candies_demo_library](https://github.com/fluttercandies/flutter_candies_demo_library) |  package library for demo of flutter candies, it provides core classes. | 6 | 2021-04-19T15:49:10Z |
 | [coordtransform](https://github.com/fluttercandies/coordtransform) | A coord transform tool. 提供百度坐标系(BD-09)、火星坐标系(国测局坐标系、GCJ02)、WGS84坐标系的相互转换。 | 6 | 2022-07-22T00:41:39Z |
-| [scan_barcode](https://github.com/fluttercandies/scan_barcode) | Barcode/QRCode scan, base of google mikit. | 6 | 2023-04-03T09:01:04Z |
 | [CandiesBot](https://github.com/fluttercandies/CandiesBot) | <no description> | 4 | 2022-07-07T08:39:39Z |
 | [ff_annotation_route_library](https://github.com/fluttercandies/ff_annotation_route_library) | The library for ff_annotation_route | 4 | 2022-07-20T11:30:17Z |
 | [flutter_challenges](https://github.com/fluttercandies/flutter_challenges) | Just do the first one, don't do second who. | 4 | 2021-11-12T08:32:04Z |
@@ -98,5 +98,5 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 
 </details>
 
-Created on 2023-04-18T13:36:24+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+Created on 2023-04-18T14:17:07+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
 
