@@ -37,7 +37,7 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [flutter_filereader](https://github.com/fluttercandies/flutter_filereader) | Flutter实现的本地文件(pdf word excel 等)查看插件,非在线预览 | 104 | 2023-03-28T12:43:52Z |
 | [nav_router](https://github.com/fluttercandies/nav_router) | flutter The lightest, easiest and most convenient route management! | 104 | 2023-01-03T07:20:13Z |
 | [w_popup_menu](https://github.com/fluttercandies/w_popup_menu) | w_popup_menu # A pop-up menu that mimics the iOS WeChat page | 88 | 2022-12-22T10:50:00Z |
-| [left-scroll-actions](https://github.com/fluttercandies/left-scroll-actions) | Flutter的左滑删除组件 | 78 | 2023-04-18T16:58:23Z |
+| [left-scroll-actions](https://github.com/fluttercandies/left-scroll-actions) | Flutter的左滑删除组件 | 79 | 2023-04-19T07:03:10Z |
 | [flutter_drawing_board](https://github.com/fluttercandies/flutter_drawing_board) | A new Flutter package of drawing board | 78 | 2023-04-12T02:14:54Z |
 | [flutter_asset_generator](https://github.com/fluttercandies/flutter_asset_generator) | Generate an R file for mapping all assets. Supports preview of image. | 69 | 2023-04-13T16:41:27Z |
 | [extended_text_library](https://github.com/fluttercandies/extended_text_library) | extended_text_library for extended_text and extended_text_field | 65 | 2023-03-27T11:27:12Z |
@@ -57,7 +57,7 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [http_client_helper](https://github.com/fluttercandies/http_client_helper) | A Flutter plugin for http request with cancel and retry fuctions. | 22 | 2023-04-18T03:00:48Z |
 | [dash_painter](https://github.com/fluttercandies/dash_painter) | a package for flutter canvas paint dash line path easily. | 22 | 2022-10-09T02:03:17Z |
 | [flutter_qweather](https://github.com/fluttercandies/flutter_qweather) | 和风天气  Flutter 插件 | 20 | 2023-03-15T07:14:24Z |
-| [flutter_ali_auth](https://github.com/fluttercandies/flutter_ali_auth) | Flutter Ali Auth Plugin 阿里云一键登录Flutter插件 | 19 | 2023-03-28T08:13:04Z |
+| [flutter_ali_auth](https://github.com/fluttercandies/flutter_ali_auth) | Flutter Ali Auth Plugin 阿里云一键登录Flutter插件 | 20 | 2023-04-19T06:52:58Z |
 | [flutter_live_activities](https://github.com/fluttercandies/flutter_live_activities) | Flutter Live Activities Plugin | 19 | 2023-01-15T13:24:41Z |
 | [baidupan](https://github.com/fluttercandies/baidupan) | Baidu net disk api for dart, 百度网盘的 dart 库 | 18 | 2023-04-15T02:50:58Z |
 | [extra_hittest_area](https://github.com/fluttercandies/extra_hittest_area) | Manually add the extra hitTest area of a widget without changing its size or layout. | 17 | 2023-03-08T11:35:38Z |
@@ -98,5 +98,5 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 
 </details>
 
-Created on 2023-04-19T06:38:08+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+Created on 2023-04-19T07:13:40+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
 
