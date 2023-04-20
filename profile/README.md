@@ -11,10 +11,10 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [wechat_flutter](https://github.com/fluttercandies/wechat_flutter) | wechat_flutter  Flutter版本微信，一个优秀的Flutter即时通讯IM开源库！ | 2251 | 2023-04-20T04:53:23Z |
 | [NeteaseCloudMusic](https://github.com/fluttercandies/NeteaseCloudMusic) | Flutter - NeteaseCloudMusic  Flutter 版本的网易云音乐 | 1739 | 2023-04-19T11:00:57Z |
 | [extended_image](https://github.com/fluttercandies/extended_image) | A powerful official extension library of image, which support placeholder(loading)/ failed state, cache network, zoom pan image, photo view, slide out page, editor(crop,rotate,flip), paint custom etc. | 1644 | 2023-04-20T09:56:12Z |
-| [flutter_wechat_assets_picker](https://github.com/fluttercandies/flutter_wechat_assets_picker) | An image picker (also with videos and audios) for Flutter projects based on the WeChat's UI. | 1227 | 2023-04-20T09:17:58Z |
-| [flutter_smart_dialog](https://github.com/fluttercandies/flutter_smart_dialog) | An elegant Flutter Dialog solution \| 一种更优雅的 Flutter Dialog 解决方案 | 801 | 2023-04-18T15:13:53Z |
+| [flutter_wechat_assets_picker](https://github.com/fluttercandies/flutter_wechat_assets_picker) | An image picker (also with videos and audios) for Flutter projects based on the WeChat's UI. | 1228 | 2023-04-20T10:19:10Z |
+| [flutter_smart_dialog](https://github.com/fluttercandies/flutter_smart_dialog) | An elegant Flutter Dialog solution \| 一种更优雅的 Flutter Dialog 解决方案 | 802 | 2023-04-20T10:27:28Z |
 | [flutter_candies](https://github.com/fluttercandies/flutter_candies) | custom flutter candies(widgets) for you to build flutter app easily, enjoy it   | 787 | 2023-03-27T11:26:56Z |
-| [flutter_photo_manager](https://github.com/fluttercandies/flutter_photo_manager) | A Flutter plugin that provides images, videos, and audio abstraction management APIs without interface integration, available on Android, iOS, and macOS. | 552 | 2023-04-20T05:07:24Z |
+| [flutter_photo_manager](https://github.com/fluttercandies/flutter_photo_manager) | A Flutter plugin that provides images, videos, and audio abstraction management APIs without interface integration, available on Android, iOS, and macOS. | 553 | 2023-04-20T10:19:24Z |
 | [flutter_image_compress](https://github.com/fluttercandies/flutter_image_compress) | flutter image compress | 529 | 2023-04-18T14:15:56Z |
 | [extended_text](https://github.com/fluttercandies/extended_text) | A powerful extended official text for Flutter, which supports Speical Text(Image,@somebody), Custom Background, Custom overFlow, Text Selection. | 526 | 2023-04-15T16:59:31Z |
 | [flutter_custom_calendar](https://github.com/fluttercandies/flutter_custom_calendar) | Flutter的一个日历控件 | 490 | 2023-04-10T13:09:17Z |
@@ -30,7 +30,7 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [extended_tabs](https://github.com/fluttercandies/extended_tabs) | A powerful official extension library of Tab/TabBar/TabView, which support to scroll ancestor or child Tabs when current is overscroll, and set scroll direction and cache extent. | 201 | 2023-04-12T05:16:18Z |
 | [pull_to_refresh_notification](https://github.com/fluttercandies/pull_to_refresh_notification) | Flutter plugin for building pull to refresh effects with PullToRefreshNotification and PullToRefreshContainer quickly. | 165 | 2023-03-06T13:54:08Z |
 | [flutter_interactional_widget](https://github.com/fluttercandies/flutter_interactional_widget) | <no description> | 150 | 2023-03-21T10:30:56Z |
-| [flutter-interactive-chart](https://github.com/fluttercandies/flutter-interactive-chart) | A candlestick chart that supports pinch-to-zoom and panning. | 132 | 2023-04-17T05:32:08Z |
+| [flutter-interactive-chart](https://github.com/fluttercandies/flutter-interactive-chart) | A candlestick chart that supports pinch-to-zoom and panning. | 133 | 2023-04-20T10:27:37Z |
 | [extended_image_library](https://github.com/fluttercandies/extended_image_library) |  package library for extended_image, extended_text and extended_text_field,provide common base class. | 126 | 2023-03-27T11:27:12Z |
 | [extended_sliver](https://github.com/fluttercandies/extended_sliver) | A powerful extension library of Sliver, which include SliverToNestedScrollBoxAdapter， SliverPinnedPersistentHeader, SliverPinnedToBoxAdapter and ExtendedSliverAppbar. | 123 | 2023-04-11T15:55:50Z |
 | [ff_annotation_route](https://github.com/fluttercandies/ff_annotation_route) | Provide route generator to create route map quickly by annotations. | 112 | 2023-03-04T12:33:59Z |
@@ -98,5 +98,5 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 
 </details>
 
-Created on 2023-04-20T10:15:39+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+Created on 2023-04-20T10:36:23+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
 
