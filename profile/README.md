@@ -10,7 +10,7 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | ---- | --- | ----------- | ------------- |
 | [wechat_flutter](https://github.com/fluttercandies/wechat_flutter) | wechat_flutter  Flutter版本微信，一个优秀的Flutter即时通讯IM开源库！ | 2262 | 2023-05-08T23:24:19Z |
 | [NeteaseCloudMusic](https://github.com/fluttercandies/NeteaseCloudMusic) | Flutter - NeteaseCloudMusic  Flutter 版本的网易云音乐 | 1739 | 2023-05-04T07:18:13Z |
-| [extended_image](https://github.com/fluttercandies/extended_image) | A powerful official extension library of image, which support placeholder(loading)/ failed state, cache network, zoom pan image, photo view, slide out page, editor(crop,rotate,flip), paint custom etc. | 1655 | 2023-05-09T09:47:10Z |
+| [extended_image](https://github.com/fluttercandies/extended_image) | A powerful official extension library of image, which support placeholder(loading)/ failed state, cache network, zoom pan image, photo view, slide out page, editor(crop,rotate,flip), paint custom etc. | 1656 | 2023-05-09T11:15:36Z |
 | [flutter_wechat_assets_picker](https://github.com/fluttercandies/flutter_wechat_assets_picker) | An image picker (also with videos and audios) for Flutter projects based on the WeChat's UI. | 1236 | 2023-05-08T01:23:20Z |
 | [flutter_smart_dialog](https://github.com/fluttercandies/flutter_smart_dialog) | An elegant Flutter Dialog solution \| 一种更优雅的 Flutter Dialog 解决方案 | 815 | 2023-05-08T06:53:32Z |
 | [flutter_candies](https://github.com/fluttercandies/flutter_candies) | custom flutter candies(widgets) for you to build flutter app easily, enjoy it   | 787 | 2023-03-27T11:26:56Z |
@@ -69,7 +69,7 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [candies_analyzer_plugin](https://github.com/fluttercandies/candies_analyzer_plugin) | The plugin to help create custom analyzer plugin quickly and provide some useful lints and get suggestion and auto import for extension member. | 11 | 2023-02-20T06:47:04Z |
 | [flutter_candies_gallery](https://github.com/fluttercandies/flutter_candies_gallery) | flutter_candies | 10 | 2023-05-06T00:49:19Z |
 | [flutter_float_window](https://github.com/fluttercandies/flutter_float_window) | flutter_float_window是一个悬浮窗插件，具备悬浮窗权限申请等功能 | 10 | 2022-03-23T06:42:02Z |
-| [saver_gallery](https://github.com/fluttercandies/saver_gallery) | <no description> | 9 | 2023-03-30T09:55:39Z |
+| [saver_gallery](https://github.com/fluttercandies/saver_gallery) | <no description> | 10 | 2023-05-09T11:22:42Z |
 | [adaptation](https://github.com/fluttercandies/adaptation) | Screen for adaptation. | 8 | 2022-10-18T08:11:53Z |
 | [w_reorder_list](https://github.com/fluttercandies/w_reorder_list) | <no description> | 7 | 2020-10-16T08:25:13Z |
 | [properties](https://github.com/fluttercandies/properties) | Load properties format in dart or flutter | 7 | 2023-02-12T03:27:23Z |
@@ -99,5 +99,5 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 
 </details>
 
-Created on 2023-05-09T11:12:06+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+Created on 2023-05-09T12:42:26+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
 
