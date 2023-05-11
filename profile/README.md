@@ -10,7 +10,7 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | ---- | --- | ----------- | ------------- |
 | [wechat_flutter](https://github.com/fluttercandies/wechat_flutter) | wechat_flutter  Flutter版本微信，一个优秀的Flutter即时通讯IM开源库！ | 2263 | 2023-05-11T03:38:31Z |
 | [NeteaseCloudMusic](https://github.com/fluttercandies/NeteaseCloudMusic) | Flutter - NeteaseCloudMusic  Flutter 版本的网易云音乐 | 1739 | 2023-05-04T07:18:13Z |
-| [extended_image](https://github.com/fluttercandies/extended_image) | A powerful official extension library of image, which support placeholder(loading)/ failed state, cache network, zoom pan image, photo view, slide out page, editor(crop,rotate,flip), paint custom etc. | 1657 | 2023-05-10T13:53:35Z |
+| [extended_image](https://github.com/fluttercandies/extended_image) | A powerful official extension library of image, which support placeholder(loading)/ failed state, cache network, zoom pan image, photo view, slide out page, editor(crop,rotate,flip), paint custom etc. | 1658 | 2023-05-11T05:42:29Z |
 | [flutter_wechat_assets_picker](https://github.com/fluttercandies/flutter_wechat_assets_picker) | An image picker (also with videos and audios) for Flutter projects based on the WeChat's UI. | 1236 | 2023-05-08T01:23:20Z |
 | [flutter_smart_dialog](https://github.com/fluttercandies/flutter_smart_dialog) | An elegant Flutter Dialog solution \| 一种更优雅的 Flutter Dialog 解决方案 | 815 | 2023-05-08T06:53:32Z |
 | [flutter_candies](https://github.com/fluttercandies/flutter_candies) | custom flutter candies(widgets) for you to build flutter app easily, enjoy it   | 787 | 2023-03-27T11:26:56Z |
@@ -99,5 +99,5 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 
 </details>
 
-Created on 2023-05-11T05:36:16+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+Created on 2023-05-11T06:18:23+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
 
