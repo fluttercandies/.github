@@ -79,7 +79,7 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [loading_more_list_library](https://github.com/fluttercandies/loading_more_list_library) | dart package library for LoadingMoreList, it provides core classes. | 6 | 2022-11-02T14:50:33Z |
 | [flutter_candies_demo_library](https://github.com/fluttercandies/flutter_candies_demo_library) |  package library for demo of flutter candies, it provides core classes. | 6 | 2021-04-19T15:49:10Z |
 | [coordtransform](https://github.com/fluttercandies/coordtransform) | A coord transform tool. 提供百度坐标系(BD-09)、火星坐标系(国测局坐标系、GCJ02)、WGS84坐标系的相互转换。 | 6 | 2022-07-22T00:41:39Z |
-| [ff_native_screenshot](https://github.com/fluttercandies/ff_native_screenshot) | A Flutter plugin to take or listen screenshot(support Platform Views) for Android and iOS with native code. | 5 | 2023-04-20T09:22:33Z |
+| [ff_native_screenshot](https://github.com/fluttercandies/ff_native_screenshot) | A Flutter plugin to take or listen screenshot(support Platform Views) for Android and iOS with native code. | 6 | 2023-05-12T16:34:12Z |
 | [CandiesBot](https://github.com/fluttercandies/CandiesBot) | <no description> | 4 | 2022-07-07T08:39:39Z |
 | [ff_annotation_route_library](https://github.com/fluttercandies/ff_annotation_route_library) | The library for ff_annotation_route | 4 | 2022-07-20T11:30:17Z |
 | [flutter_challenges](https://github.com/fluttercandies/flutter_challenges) | Just do the first one, don't do second who. | 4 | 2021-11-12T08:32:04Z |
@@ -99,5 +99,5 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 
 </details>
 
-Created on 2023-05-12T16:18:12+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+Created on 2023-05-12T16:38:25+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
 
