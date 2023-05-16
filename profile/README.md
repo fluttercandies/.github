@@ -16,7 +16,7 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [flutter_candies](https://github.com/fluttercandies/flutter_candies) | custom flutter candies(widgets) for you to build flutter app easily, enjoy it   | 787 | 2023-03-27T11:26:56Z |
 | [flutter_photo_manager](https://github.com/fluttercandies/flutter_photo_manager) | A Flutter plugin that provides images, videos, and audio abstraction management APIs without interface integration, available on Android, iOS, and macOS. | 559 | 2023-05-04T01:00:33Z |
 | [flutter_image_compress](https://github.com/fluttercandies/flutter_image_compress) | flutter image compress | 535 | 2023-05-16T16:36:35Z |
-| [extended_text](https://github.com/fluttercandies/extended_text) | A powerful extended official text for Flutter, which supports Speical Text(Image,@somebody), Custom Background, Custom overFlow, Text Selection. | 534 | 2023-05-16T06:26:00Z |
+| [extended_text](https://github.com/fluttercandies/extended_text) | A powerful extended official text for Flutter, which supports Speical Text(Image,@somebody), Custom Background, Custom overFlow, Text Selection. | 533 | 2023-05-16T16:39:35Z |
 | [extended_nested_scroll_view](https://github.com/fluttercandies/extended_nested_scroll_view) | extended nested scroll view to fix following issues.  1.pinned sliver header issue  2.inner scrollables in tabview sync issue  3.pull to refresh is not work. 4.do without ScrollController in NestedScrollView's body | 499 | 2023-05-16T07:18:18Z |
 | [flutter_custom_calendar](https://github.com/fluttercandies/flutter_custom_calendar) | Flutter的一个日历控件 | 491 | 2023-05-10T04:14:39Z |
 | [extended_text_field](https://github.com/fluttercandies/extended_text_field) | extended official text field to quickly build special text like inline image, @somebody, custom background etc. | 451 | 2023-05-16T11:57:42Z |
@@ -99,5 +99,5 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 
 </details>
 
-Created on 2023-05-16T16:39:13+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+Created on 2023-05-16T17:12:39+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
 
