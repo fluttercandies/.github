@@ -13,7 +13,7 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [extended_image](https://github.com/fluttercandies/extended_image) | A powerful official extension library of image, which support placeholder(loading)/ failed state, cache network, zoom pan image, photo view, slide out page, editor(crop,rotate,flip), paint custom etc. | 1663 | 2023-05-17T03:08:50Z |
 | [flutter_wechat_assets_picker](https://github.com/fluttercandies/flutter_wechat_assets_picker) | An image picker (also with videos and audios) for Flutter projects based on the WeChat's UI. | 1242 | 2023-05-17T08:25:35Z |
 | [flutter_smart_dialog](https://github.com/fluttercandies/flutter_smart_dialog) | An elegant Flutter Dialog solution \| 一种更优雅的 Flutter Dialog 解决方案 | 819 | 2023-05-17T05:31:10Z |
-| [flutter_candies](https://github.com/fluttercandies/flutter_candies) | custom flutter candies(widgets) for you to build flutter app easily, enjoy it   | 787 | 2023-03-27T11:26:56Z |
+| [flutter_candies](https://github.com/fluttercandies/flutter_candies) | custom flutter candies(widgets) for you to build flutter app easily, enjoy it   | 786 | 2023-05-17T09:27:45Z |
 | [flutter_photo_manager](https://github.com/fluttercandies/flutter_photo_manager) | A Flutter plugin that provides images, videos, and audio abstraction management APIs without interface integration, available on Android, iOS, and macOS. | 559 | 2023-05-04T01:00:33Z |
 | [flutter_image_compress](https://github.com/fluttercandies/flutter_image_compress) | flutter image compress | 535 | 2023-05-16T16:36:35Z |
 | [extended_text](https://github.com/fluttercandies/extended_text) | A powerful extended official text for Flutter, which supports Speical Text(Image,@somebody), Custom Background, Custom overFlow, Text Selection. | 533 | 2023-05-16T16:39:35Z |
@@ -99,5 +99,5 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 
 </details>
 
-Created on 2023-05-17T09:14:06+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+Created on 2023-05-17T09:36:17+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
 
