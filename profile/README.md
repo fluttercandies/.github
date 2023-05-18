@@ -61,9 +61,9 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [baidupan](https://github.com/fluttercandies/baidupan) | Baidu net disk api for dart, 百度网盘的 dart 库 | 19 | 2023-04-24T07:54:01Z |
 | [flutter_live_activities](https://github.com/fluttercandies/flutter_live_activities) | Flutter Live Activities Plugin | 19 | 2023-01-15T13:24:41Z |
 | [extra_hittest_area](https://github.com/fluttercandies/extra_hittest_area) | Manually add the extra hitTest area of a widget without changing its size or layout. | 17 | 2023-03-08T11:35:38Z |
+| [flutter_learning_tests](https://github.com/fluttercandies/flutter_learning_tests) | 学习 Flutter 路上的点滴及小测~ | 15 | 2023-05-18T09:52:57Z |
 | [flutter_mlkit_scan_plugin](https://github.com/fluttercandies/flutter_mlkit_scan_plugin) | <no description> | 15 | 2023-03-12T09:04:47Z |
 | [flutter_slider_view](https://github.com/fluttercandies/flutter_slider_view) | A slider view widget that supports custom type models and various configs. | 15 | 2022-08-17T12:45:56Z |
-| [flutter_learning_tests](https://github.com/fluttercandies/flutter_learning_tests) | 学习 Flutter 路上的点滴及小测~ | 14 | 2022-01-06T12:35:02Z |
 | [ios_willpop_transition_theme](https://github.com/fluttercandies/ios_willpop_transition_theme) | A Flutter package to solve the conflict between ios sliding back and Willpop | 12 | 2023-04-25T05:20:31Z |
 | [extended_list_library](https://github.com/fluttercandies/extended_list_library) | package library for extended_list and waterfall_flow, it provides core classes. | 11 | 2022-05-26T02:54:08Z |
 | [saver_gallery](https://github.com/fluttercandies/saver_gallery) | <no description> | 11 | 2023-05-15T14:30:59Z |
@@ -99,5 +99,5 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 
 </details>
 
-Created on 2023-05-18T09:36:32+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+Created on 2023-05-18T10:14:46+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
 
