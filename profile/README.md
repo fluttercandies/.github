@@ -40,10 +40,10 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [flutter_drawing_board](https://github.com/fluttercandies/flutter_drawing_board) | A new Flutter package of drawing board | 81 | 2023-05-10T16:01:17Z |
 | [left-scroll-actions](https://github.com/fluttercandies/left-scroll-actions) | Flutter的左滑删除组件 | 78 | 2023-04-20T04:56:30Z |
 | [flutter_asset_generator](https://github.com/fluttercandies/flutter_asset_generator) | Generate an R file for mapping all assets. Supports preview of image. | 70 | 2023-05-18T21:05:30Z |
-| [extended_text_library](https://github.com/fluttercandies/extended_text_library) | extended_text_library for extended_text and extended_text_field | 69 | 2023-05-11T16:17:12Z |
+| [extended_text_library](https://github.com/fluttercandies/extended_text_library) | extended_text_library for extended_text and extended_text_field | 70 | 2023-05-19T01:23:38Z |
 | [no-free-usage-action](https://github.com/fluttercandies/no-free-usage-action) | A NO-FREE-USAGE action for github. (Only worked with github action.) | 53 | 2023-03-23T16:17:50Z |
 | [flutter_hsvcolor_picker](https://github.com/fluttercandies/flutter_hsvcolor_picker) | A HSV color picker for your flutter app. RGB HSV Wheel Hue Saturation Values. | 50 | 2023-03-31T09:37:38Z |
-| [flex_grid](https://github.com/fluttercandies/flex_grid) | The FlexGrid control provides a powerful and quickly way to display data in a tabular format. It is including that frozened column/row,loading more, high performance and better experience in TabBarView/PageView. | 46 | 2023-04-28T02:27:48Z |
+| [flex_grid](https://github.com/fluttercandies/flex_grid) | The FlexGrid control provides a powerful and quickly way to display data in a tabular format. It is including that frozened column/row,loading more, high performance and better experience in TabBarView/PageView. | 47 | 2023-05-19T01:21:40Z |
 | [stack_board](https://github.com/fluttercandies/stack_board) | 层叠控件摆放 | 45 | 2023-05-11T13:53:49Z |
 | [extended_list](https://github.com/fluttercandies/extended_list) | extended list(ListView/GridView) support track collect garbage of children/viewport indexes, build lastChild as special child in the case that it is loadmore/no more item and enable to layout close to trailing. | 44 | 2022-10-08T01:30:43Z |
 | [ripple_backdrop_animate_route](https://github.com/fluttercandies/ripple_backdrop_animate_route) | A ripple animation with backdrop of route. | 42 | 2023-04-05T21:50:35Z |
@@ -99,5 +99,5 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 
 </details>
 
-Created on 2023-05-19T01:15:20+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+Created on 2023-05-19T02:21:38+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
 
