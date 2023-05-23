@@ -71,7 +71,6 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [flutter_candies_gallery](https://github.com/fluttercandies/flutter_candies_gallery) | flutter_candies | 10 | 2023-05-06T00:49:19Z |
 | [flutter_float_window](https://github.com/fluttercandies/flutter_float_window) | flutter_float_window是一个悬浮窗插件，具备悬浮窗权限申请等功能 | 10 | 2022-03-23T06:42:02Z |
 | [adaptation](https://github.com/fluttercandies/adaptation) | Screen for adaptation. | 8 | 2022-10-18T08:11:53Z |
-| [json_dart](https://github.com/fluttercandies/json_dart) | A template-supported tool for converting JSON to Dart code. | 8 | 2023-05-15T10:03:41Z |
 | [w_reorder_list](https://github.com/fluttercandies/w_reorder_list) | <no description> | 7 | 2020-10-16T08:25:13Z |
 | [properties](https://github.com/fluttercandies/properties) | Load properties format in dart or flutter | 7 | 2023-02-12T03:27:23Z |
 | [scan_barcode](https://github.com/fluttercandies/scan_barcode) | Barcode/QRCode scan, base of google mikit. | 7 | 2023-05-23T09:42:02Z |
@@ -99,5 +98,5 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 
 </details>
 
-Created on 2023-05-23T15:15:42+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+Created on 2023-05-23T15:36:20+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
 
