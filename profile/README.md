@@ -18,7 +18,7 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [flutter_image_compress](https://github.com/fluttercandies/flutter_image_compress) | flutter image compress | 539 | 2023-06-01T00:12:29Z |
 | [extended_text](https://github.com/fluttercandies/extended_text) | A powerful extended official text for Flutter, which supports Speical Text(Image,@somebody), Custom Background, Custom overFlow, Text Selection. | 538 | 2023-05-31T02:06:04Z |
 | [extended_nested_scroll_view](https://github.com/fluttercandies/extended_nested_scroll_view) | extended nested scroll view to fix following issues.  1.pinned sliver header issue  2.inner scrollables in tabview sync issue  3.pull to refresh is not work. 4.do without ScrollController in NestedScrollView's body | 501 | 2023-05-31T08:50:03Z |
-| [flutter_custom_calendar](https://github.com/fluttercandies/flutter_custom_calendar) | Flutter的一个日历控件 | 490 | 2023-05-25T14:57:36Z |
+| [flutter_custom_calendar](https://github.com/fluttercandies/flutter_custom_calendar) | Flutter的一个日历控件 | 491 | 2023-06-02T01:10:15Z |
 | [extended_text_field](https://github.com/fluttercandies/extended_text_field) | extended official text field to quickly build special text like inline image, @somebody, custom background etc. | 455 | 2023-05-31T05:40:32Z |
 | [like_button](https://github.com/fluttercandies/like_button) | Like Button is a flutter library that allows you to create a button with animation effects similar to Twitter's heart when you like something and animation effects to increase like count. | 382 | 2023-06-01T01:16:01Z |
 | [flutter_image_editor](https://github.com/fluttercandies/flutter_image_editor) | Flutter plugin, support android/ios.Support crop, flip, rotate, color martix, mix image, add text. merge multi images. | 335 | 2023-05-19T11:57:08Z |
@@ -27,7 +27,7 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [loading_more_list](https://github.com/fluttercandies/loading_more_list) | A loading more list which supports ListView,GridView,WaterfallFlow and Slivers. | 299 | 2023-06-01T16:13:50Z |
 | [flutter_wechat_camera_picker](https://github.com/fluttercandies/flutter_wechat_camera_picker) | A camera picker (take photos and videos) for Flutter projects based on WeChat's UI. It's a standalone module of wechat_assets_picker yet it can be run separately. | 288 | 2023-05-22T09:07:02Z |
 | [FlutterJsonBeanFactory](https://github.com/fluttercandies/FlutterJsonBeanFactory) | What I do is generate dart beans based on json, as well as generics parameters and json build instances | 214 | 2023-05-29T03:05:07Z |
-| [extended_tabs](https://github.com/fluttercandies/extended_tabs) | A powerful official extension library of Tab/TabBar/TabView, which support to scroll ancestor or child Tabs when current is overscroll, and set scroll direction and cache extent. | 213 | 2023-06-01T11:52:46Z |
+| [extended_tabs](https://github.com/fluttercandies/extended_tabs) | A powerful official extension library of Tab/TabBar/TabView, which support to scroll ancestor or child Tabs when current is overscroll, and set scroll direction and cache extent. | 214 | 2023-06-02T00:53:45Z |
 | [pull_to_refresh_notification](https://github.com/fluttercandies/pull_to_refresh_notification) | Flutter plugin for building pull to refresh effects with PullToRefreshNotification and PullToRefreshContainer quickly. | 167 | 2023-05-01T09:56:39Z |
 | [flutter_interactional_widget](https://github.com/fluttercandies/flutter_interactional_widget) | <no description> | 153 | 2023-05-30T09:27:12Z |
 | [flutter-interactive-chart](https://github.com/fluttercandies/flutter-interactive-chart) | A candlestick chart that supports pinch-to-zoom and panning. | 137 | 2023-05-26T21:04:38Z |
@@ -50,8 +50,8 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [flutter_juejin](https://github.com/fluttercandies/flutter_juejin) | https://juejin.cn in Flutter | 36 | 2023-06-01T15:34:41Z |
 | [assets_generator](https://github.com/fluttercandies/assets_generator) | The flutter tool to generate assets‘s configs(yaml) and consts automatically for single project and multiple modules. | 33 | 2023-05-30T08:22:31Z |
 | [flutter_record_mp3](https://github.com/fluttercandies/flutter_record_mp3) | flutter record mp3 using the native api | 33 | 2023-03-20T07:32:07Z |
+| [fconsole](https://github.com/fluttercandies/fconsole) | 一个用于调试的面板 | 30 | 2023-06-02T01:03:41Z |
 | [flutter_bdface_collect](https://github.com/fluttercandies/flutter_bdface_collect) | a baidu face offline collect plugin. Only Android and IOS platforms are supported.  百度人脸离线采集插件，只支持安卓和iOS。 | 30 | 2023-05-24T12:36:12Z |
-| [fconsole](https://github.com/fluttercandies/fconsole) | 一个用于调试的面板 | 29 | 2023-05-30T18:35:12Z |
 | [flutter_draggable_container](https://github.com/fluttercandies/flutter_draggable_container) | A Draggable Widget Container | 25 | 2023-05-30T08:22:40Z |
 | [flutter_switch_clipper](https://github.com/fluttercandies/flutter_switch_clipper) | A Flutter package that two widgets switch with clipper. | 23 | 2023-05-30T08:24:09Z |
 | [http_client_helper](https://github.com/fluttercandies/http_client_helper) | A Flutter plugin for http request with cancel and retry fuctions. | 22 | 2023-04-18T03:00:48Z |
@@ -98,5 +98,5 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 
 </details>
 
-Created on 2023-06-01T23:36:21+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+Created on 2023-06-02T01:37:25+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
 
