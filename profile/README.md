@@ -39,7 +39,7 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [w_popup_menu](https://github.com/fluttercandies/w_popup_menu) | w_popup_menu # A pop-up menu that mimics the iOS WeChat page | 89 | 2023-05-24T00:59:31Z |
 | [flutter_drawing_board](https://github.com/fluttercandies/flutter_drawing_board) | A new Flutter package of drawing board | 83 | 2023-06-02T15:07:55Z |
 | [left-scroll-actions](https://github.com/fluttercandies/left-scroll-actions) | Flutter的左滑删除组件 | 78 | 2023-04-20T04:56:30Z |
-| [extended_text_library](https://github.com/fluttercandies/extended_text_library) | extended_text_library for extended_text and extended_text_field | 72 | 2023-06-05T05:19:36Z |
+| [extended_text_library](https://github.com/fluttercandies/extended_text_library) | extended_text_library for extended_text and extended_text_field | 73 | 2023-06-06T23:32:41Z |
 | [flutter_asset_generator](https://github.com/fluttercandies/flutter_asset_generator) | Generate an R file for mapping all assets. Supports preview of image. | 70 | 2023-05-18T21:05:30Z |
 | [no-free-usage-action](https://github.com/fluttercandies/no-free-usage-action) | A NO-FREE-USAGE action for github. (Only worked with github action.) | 53 | 2023-03-23T16:17:50Z |
 | [flutter_hsvcolor_picker](https://github.com/fluttercandies/flutter_hsvcolor_picker) | A HSV color picker for your flutter app. RGB HSV Wheel Hue Saturation Values. | 50 | 2023-03-31T09:37:38Z |
@@ -98,5 +98,5 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 
 </details>
 
-Created on 2023-06-06T23:13:42+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+Created on 2023-06-06T23:36:09+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
 
