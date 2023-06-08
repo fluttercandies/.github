@@ -27,7 +27,7 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [loading_more_list](https://github.com/fluttercandies/loading_more_list) | A loading more list which supports ListView,GridView,WaterfallFlow and Slivers. | 299 | 2023-06-01T16:13:50Z |
 | [flutter_wechat_camera_picker](https://github.com/fluttercandies/flutter_wechat_camera_picker) | A camera picker (take photos and videos) for Flutter projects based on WeChat's UI. It's a standalone module of wechat_assets_picker yet it can be run separately. | 291 | 2023-06-07T15:23:51Z |
 | [FlutterJsonBeanFactory](https://github.com/fluttercandies/FlutterJsonBeanFactory) | What I do is generate dart beans based on json, as well as generics parameters and json build instances | 215 | 2023-06-06T09:56:47Z |
-| [extended_tabs](https://github.com/fluttercandies/extended_tabs) | A powerful official extension library of Tab/TabBar/TabView, which support to scroll ancestor or child Tabs when current is overscroll, and set scroll direction and cache extent. | 214 | 2023-06-02T00:53:45Z |
+| [extended_tabs](https://github.com/fluttercandies/extended_tabs) | A powerful official extension library of Tab/TabBar/TabView, which support to scroll ancestor or child Tabs when current is overscroll, and set scroll direction and cache extent. | 215 | 2023-06-08T02:45:24Z |
 | [pull_to_refresh_notification](https://github.com/fluttercandies/pull_to_refresh_notification) | Flutter plugin for building pull to refresh effects with PullToRefreshNotification and PullToRefreshContainer quickly. | 168 | 2023-06-07T03:12:13Z |
 | [flutter_interactional_widget](https://github.com/fluttercandies/flutter_interactional_widget) | <no description> | 153 | 2023-05-30T09:27:12Z |
 | [flutter-interactive-chart](https://github.com/fluttercandies/flutter-interactive-chart) | A candlestick chart that supports pinch-to-zoom and panning. | 138 | 2023-06-05T05:18:02Z |
@@ -98,5 +98,5 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 
 </details>
 
-Created on 2023-06-08T01:27:05+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+Created on 2023-06-08T02:45:30+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
 
