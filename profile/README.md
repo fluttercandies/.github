@@ -52,7 +52,7 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [flutter_record_mp3](https://github.com/fluttercandies/flutter_record_mp3) | flutter record mp3 using the native api | 33 | 2023-03-20T07:32:07Z |
 | [fconsole](https://github.com/fluttercandies/fconsole) | 一个用于调试的面板 | 30 | 2023-06-02T01:03:41Z |
 | [flutter_bdface_collect](https://github.com/fluttercandies/flutter_bdface_collect) | a baidu face offline collect plugin. Only Android and IOS platforms are supported.  百度人脸离线采集插件，只支持安卓和iOS。 | 30 | 2023-05-24T12:36:12Z |
-| [flutter_draggable_container](https://github.com/fluttercandies/flutter_draggable_container) | A Draggable Widget Container | 25 | 2023-05-30T08:22:40Z |
+| [flutter_draggable_container](https://github.com/fluttercandies/flutter_draggable_container) | A Draggable Widget Container | 26 | 2023-06-09T07:57:20Z |
 | [flutter_switch_clipper](https://github.com/fluttercandies/flutter_switch_clipper) | A Flutter package that two widgets switch with clipper. | 23 | 2023-05-30T08:24:09Z |
 | [http_client_helper](https://github.com/fluttercandies/http_client_helper) | A Flutter plugin for http request with cancel and retry fuctions. | 22 | 2023-04-18T03:00:48Z |
 | [flutter_qweather](https://github.com/fluttercandies/flutter_qweather) | 和风天气  Flutter 插件 | 21 | 2023-05-05T16:41:54Z |
@@ -98,5 +98,5 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 
 </details>
 
-Created on 2023-06-09T07:36:27+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+Created on 2023-06-09T08:17:30+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
 
