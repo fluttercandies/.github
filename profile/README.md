@@ -10,7 +10,7 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | ---- | --- | ----------- | ------------- |
 | [wechat_flutter](https://github.com/fluttercandies/wechat_flutter) | wechat_flutter is Flutter version WeChat, an excellent Flutter instant messaging IM open source library! | 2288 | 2023-06-11T08:21:40Z |
 | [NeteaseCloudMusic](https://github.com/fluttercandies/NeteaseCloudMusic) | Flutter - NeteaseCloudMusic  Flutter 版本的网易云音乐 | 1741 | 2023-06-02T16:35:42Z |
-| [extended_image](https://github.com/fluttercandies/extended_image) | A powerful official extension library of image, which support placeholder(loading)/ failed state, cache network, zoom pan image, photo view, slide out page, editor(crop,rotate,flip), paint custom etc. | 1681 | 2023-06-12T07:31:28Z |
+| [extended_image](https://github.com/fluttercandies/extended_image) | A powerful official extension library of image, which support placeholder(loading)/ failed state, cache network, zoom pan image, photo view, slide out page, editor(crop,rotate,flip), paint custom etc. | 1682 | 2023-06-13T08:58:09Z |
 | [flutter_wechat_assets_picker](https://github.com/fluttercandies/flutter_wechat_assets_picker) | An image picker (also with videos and audios) for Flutter projects based on the WeChat's UI. | 1259 | 2023-06-13T03:11:40Z |
 | [flutter_smart_dialog](https://github.com/fluttercandies/flutter_smart_dialog) | An elegant Flutter Dialog solution \| 一种更优雅的 Flutter Dialog 解决方案 | 841 | 2023-06-13T06:11:49Z |
 | [flutter_candies](https://github.com/fluttercandies/flutter_candies) | custom flutter candies(widgets) for you to build flutter app easily, enjoy it   | 789 | 2023-06-11T12:04:54Z |
@@ -25,7 +25,7 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [JsonToDart](https://github.com/fluttercandies/JsonToDart) | The tool to convert json to dart code, support Windows，Mac，Web. | 333 | 2023-06-04T10:20:18Z |
 | [waterfall_flow](https://github.com/fluttercandies/waterfall_flow) | A Flutter grid view which supports waterfall flow layout. | 313 | 2023-06-08T08:25:55Z |
 | [loading_more_list](https://github.com/fluttercandies/loading_more_list) | A loading more list which supports ListView,GridView,WaterfallFlow and Slivers. | 301 | 2023-06-13T05:53:14Z |
-| [flutter_wechat_camera_picker](https://github.com/fluttercandies/flutter_wechat_camera_picker) | A camera picker (take photos and videos) for Flutter projects based on WeChat's UI. It's a standalone module of wechat_assets_picker yet it can be run separately. | 291 | 2023-06-07T15:23:51Z |
+| [flutter_wechat_camera_picker](https://github.com/fluttercandies/flutter_wechat_camera_picker) | A camera picker (take photos and videos) for Flutter projects based on WeChat's UI. It's a standalone module of wechat_assets_picker yet it can be run separately. | 292 | 2023-06-13T08:55:40Z |
 | [FlutterJsonBeanFactory](https://github.com/fluttercandies/FlutterJsonBeanFactory) | What I do is generate dart beans based on json, as well as generics parameters and json build instances | 216 | 2023-06-12T01:39:41Z |
 | [extended_tabs](https://github.com/fluttercandies/extended_tabs) | A powerful official extension library of Tab/TabBar/TabView, which support to scroll ancestor or child Tabs when current is overscroll, and set scroll direction and cache extent. | 216 | 2023-06-11T12:05:05Z |
 | [pull_to_refresh_notification](https://github.com/fluttercandies/pull_to_refresh_notification) | Flutter plugin for building pull to refresh effects with PullToRefreshNotification and PullToRefreshContainer quickly. | 169 | 2023-06-08T08:19:57Z |
@@ -98,5 +98,5 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 
 </details>
 
-Created on 2023-06-13T08:36:24+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+Created on 2023-06-13T09:13:52+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
 
