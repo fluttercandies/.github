@@ -70,7 +70,7 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [flutter_candies_gallery](https://github.com/fluttercandies/flutter_candies_gallery) | flutter_candies | 10 | 2023-05-06T00:49:19Z |
 | [extended_list_library](https://github.com/fluttercandies/extended_list_library) | package library for extended_list and waterfall_flow, it provides core classes. | 10 | 2023-05-30T08:22:44Z |
 | [flutter_float_window](https://github.com/fluttercandies/flutter_float_window) | flutter_float_window是一个悬浮窗插件，具备悬浮窗权限申请等功能 | 10 | 2022-03-23T06:42:02Z |
-| [scan_barcode](https://github.com/fluttercandies/scan_barcode) | Barcode/QRCode scan, base of google mikit. | 9 | 2023-06-14T01:51:50Z |
+| [scan_barcode](https://github.com/fluttercandies/scan_barcode) | Barcode/QRCode scan, base of google mikit. | 10 | 2023-06-22T11:03:48Z |
 | [adaptation](https://github.com/fluttercandies/adaptation) | Screen for adaptation. | 8 | 2022-10-18T08:11:53Z |
 | [w_reorder_list](https://github.com/fluttercandies/w_reorder_list) | <no description> | 7 | 2020-10-16T08:25:13Z |
 | [properties](https://github.com/fluttercandies/properties) | Load properties format in dart or flutter | 7 | 2023-02-12T03:27:23Z |
@@ -98,5 +98,5 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 
 </details>
 
-Created on 2023-06-22T10:36:26+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+Created on 2023-06-22T11:12:03+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
 
