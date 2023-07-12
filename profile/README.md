@@ -30,7 +30,7 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [extended_tabs](https://github.com/fluttercandies/extended_tabs) | A powerful official extension library of Tab/TabBar/TabView, which support to scroll ancestor or child Tabs when current is overscroll, and set scroll direction and cache extent. | 218 | 2023-07-10T08:28:13Z |
 | [pull_to_refresh_notification](https://github.com/fluttercandies/pull_to_refresh_notification) | Flutter plugin for building pull to refresh effects with PullToRefreshNotification and PullToRefreshContainer quickly. | 170 | 2023-06-26T01:31:42Z |
 | [flutter_interactional_widget](https://github.com/fluttercandies/flutter_interactional_widget) | <no description> | 154 | 2023-07-03T06:43:52Z |
-| [flutter-interactive-chart](https://github.com/fluttercandies/flutter-interactive-chart) | A candlestick chart that supports pinch-to-zoom and panning. | 150 | 2023-07-11T16:53:19Z |
+| [flutter-interactive-chart](https://github.com/fluttercandies/flutter-interactive-chart) | A candlestick chart that supports pinch-to-zoom and panning. | 151 | 2023-07-12T14:49:21Z |
 | [extended_image_library](https://github.com/fluttercandies/extended_image_library) |  package library for extended_image, extended_text and extended_text_field,provide common base class. | 133 | 2023-07-10T11:26:33Z |
 | [extended_sliver](https://github.com/fluttercandies/extended_sliver) | A powerful extension library of Sliver, which include SliverToNestedScrollBoxAdapter， SliverPinnedPersistentHeader, SliverPinnedToBoxAdapter and ExtendedSliverAppbar. | 132 | 2023-07-12T03:05:19Z |
 | [ff_annotation_route](https://github.com/fluttercandies/ff_annotation_route) | Provide route generator to create route map quickly by annotations. | 114 | 2023-06-25T17:43:07Z |
@@ -99,5 +99,5 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 
 </details>
 
-Created on 2023-07-12T14:37:51+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+Created on 2023-07-12T15:16:29+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
 
