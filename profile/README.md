@@ -21,7 +21,7 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [flutter_custom_calendar](https://github.com/fluttercandies/flutter_custom_calendar) | Flutter的一个日历控件 | 493 | 2023-07-12T08:40:00Z |
 | [extended_text_field](https://github.com/fluttercandies/extended_text_field) | extended official text field to quickly build special text like inline image, @somebody, custom background etc. | 462 | 2023-07-07T01:24:55Z |
 | [like_button](https://github.com/fluttercandies/like_button) | Like Button is a flutter library that allows you to create a button with animation effects similar to Twitter's heart when you like something and animation effects to increase like count. | 389 | 2023-07-12T02:56:19Z |
-| [flutter_image_editor](https://github.com/fluttercandies/flutter_image_editor) | Flutter plugin, support android/ios.Support crop, flip, rotate, color martix, mix image, add text. merge multi images. | 341 | 2023-07-03T16:06:10Z |
+| [flutter_image_editor](https://github.com/fluttercandies/flutter_image_editor) | Flutter plugin, support android/ios.Support crop, flip, rotate, color martix, mix image, add text. merge multi images. | 342 | 2023-07-13T20:38:02Z |
 | [JsonToDart](https://github.com/fluttercandies/JsonToDart) | The tool to convert json to dart code, support Windows，Mac，Web. | 335 | 2023-07-06T03:26:24Z |
 | [waterfall_flow](https://github.com/fluttercandies/waterfall_flow) | A Flutter grid view which supports waterfall flow layout. | 317 | 2023-07-09T04:16:12Z |
 | [loading_more_list](https://github.com/fluttercandies/loading_more_list) | A loading more list which supports ListView,GridView,WaterfallFlow and Slivers. | 305 | 2023-07-11T06:35:02Z |
@@ -99,5 +99,5 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 
 </details>
 
-Created on 2023-07-13T20:36:28+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+Created on 2023-07-13T21:14:00+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
 
