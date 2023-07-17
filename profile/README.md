@@ -95,9 +95,10 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [env2dart](https://github.com/fluttercandies/env2dart) | A simple way to generate  code from a  file. | 1 | 2023-03-22T05:54:17Z |
 | [harmony_os_version](https://github.com/fluttercandies/harmony_os_version) | <no description> | 1 | 2023-07-11T08:53:47Z |
 | [upgrade_tool](https://github.com/fluttercandies/upgrade_tool) | Resolve warnings caused by xxxbinding. Instance in Flutter 3.0 | 0 | 2022-06-03T04:09:31Z |
+| [dart_wake_on_lan](https://github.com/fluttercandies/dart_wake_on_lan) | A CLI application to send Wake-On-Lan packets. | 0 | 2023-07-17T03:58:23Z |
 
 
 </details>
 
-Created on 2023-07-17T03:43:01+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+Created on 2023-07-17T04:19:43+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
 
