@@ -12,7 +12,7 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [NeteaseCloudMusic](https://github.com/fluttercandies/NeteaseCloudMusic) | Flutter - NeteaseCloudMusic  Flutter 版本的网易云音乐 | 1743 | 2023-07-07T02:15:13Z |
 | [extended_image](https://github.com/fluttercandies/extended_image) | A powerful official extension library of image, which support placeholder(loading)/ failed state, cache network, zoom pan image, photo view, slide out page, editor(crop,rotate,flip), paint custom etc. | 1695 | 2023-07-14T09:08:35Z |
 | [flutter_wechat_assets_picker](https://github.com/fluttercandies/flutter_wechat_assets_picker) | An image picker (also with videos and audios) for Flutter projects based on the WeChat's UI. | 1285 | 2023-07-16T10:48:09Z |
-| [flutter_smart_dialog](https://github.com/fluttercandies/flutter_smart_dialog) | An elegant Flutter Dialog solution \| 一种更优雅的 Flutter Dialog 解决方案 | 863 | 2023-07-19T03:33:54Z |
+| [flutter_smart_dialog](https://github.com/fluttercandies/flutter_smart_dialog) | An elegant Flutter Dialog solution \| 一种更优雅的 Flutter Dialog 解决方案 | 864 | 2023-07-19T16:01:53Z |
 | [flutter_candies](https://github.com/fluttercandies/flutter_candies) | custom flutter candies(widgets) for you to build flutter app easily, enjoy it   | 788 | 2023-07-14T10:07:15Z |
 | [flutter_photo_manager](https://github.com/fluttercandies/flutter_photo_manager) | A Flutter plugin that provides images, videos, and audio abstraction management APIs without interface integration, available on Android, iOS, and macOS. | 573 | 2023-07-18T02:55:39Z |
 | [extended_text](https://github.com/fluttercandies/extended_text) | A powerful extended official text for Flutter, which supports Speical Text(Image,@somebody), Custom Background, Custom overFlow, Text Selection. | 547 | 2023-07-19T12:45:42Z |
@@ -38,7 +38,7 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [flutter_filereader](https://github.com/fluttercandies/flutter_filereader) | Flutter实现的本地文件(pdf word excel 等)查看插件,非在线预览 | 103 | 2023-05-20T11:52:43Z |
 | [w_popup_menu](https://github.com/fluttercandies/w_popup_menu) | w_popup_menu # A pop-up menu that mimics the iOS WeChat page | 89 | 2023-05-24T00:59:31Z |
 | [flutter_drawing_board](https://github.com/fluttercandies/flutter_drawing_board) | A new Flutter package of drawing board | 85 | 2023-07-10T03:10:10Z |
-| [left-scroll-actions](https://github.com/fluttercandies/left-scroll-actions) | Flutter的左滑删除组件 | 81 | 2023-07-07T07:41:45Z |
+| [left-scroll-actions](https://github.com/fluttercandies/left-scroll-actions) | Flutter的左滑删除组件 | 80 | 2023-07-19T16:01:06Z |
 | [flutter_asset_generator](https://github.com/fluttercandies/flutter_asset_generator) | Generate an R file for mapping all assets. Supports preview of image. | 73 | 2023-07-09T15:33:50Z |
 | [extended_text_library](https://github.com/fluttercandies/extended_text_library) | extended_text_library for extended_text and extended_text_field | 73 | 2023-06-06T23:32:41Z |
 | [no-free-usage-action](https://github.com/fluttercandies/no-free-usage-action) | A NO-FREE-USAGE action for github. (Only worked with github action.) | 59 | 2023-06-27T03:32:14Z |
@@ -100,5 +100,5 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 
 </details>
 
-Created on 2023-07-19T15:36:17+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+Created on 2023-07-19T16:18:49+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
 
