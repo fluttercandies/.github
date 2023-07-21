@@ -83,6 +83,7 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [flutter_challenges](https://github.com/fluttercandies/flutter_challenges) | Just do the first one, don't do second who. | 4 | 2021-11-12T08:32:04Z |
 | [douget](https://github.com/fluttercandies/douget) | <no description> | 4 | 2023-01-03T23:44:14Z |
 | [sync_scroll_library](https://github.com/fluttercandies/sync_scroll_library) | The library for extended_tabs and flex_grid | 4 | 2022-08-10T07:53:17Z |
+| [flutter_app_build_tool](https://github.com/fluttercandies/flutter_app_build_tool) | A CLI tool that helps to build Flutter apps. | 4 | 2023-07-21T02:41:40Z |
 | [simple_provider](https://github.com/fluttercandies/simple_provider) | flutter simple provider | 3 | 2020-05-06T07:21:02Z |
 | [flutter_candies_package_tools](https://github.com/fluttercandies/flutter_candies_package_tools) | tool to create package and demo | 3 | 2020-09-04T08:13:33Z |
 | [ff_annotation_route_library](https://github.com/fluttercandies/ff_annotation_route_library) | The library for ff_annotation_route | 3 | 2023-05-30T08:23:39Z |
@@ -96,10 +97,9 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [env2dart](https://github.com/fluttercandies/env2dart) | A simple way to generate  code from a  file. | 1 | 2023-03-22T05:54:17Z |
 | [harmony_os_version](https://github.com/fluttercandies/harmony_os_version) | <no description> | 1 | 2023-07-11T08:53:47Z |
 | [upgrade_tool](https://github.com/fluttercandies/upgrade_tool) | Resolve warnings caused by xxxbinding. Instance in Flutter 3.0 | 0 | 2022-06-03T04:09:31Z |
-| [flutter_app_build_tool](https://github.com/fluttercandies/flutter_app_build_tool) | A CLI tool that helps to build Flutter apps. | 0 | 2023-07-21T02:23:09Z |
 
 
 </details>
 
-Created on 2023-07-21T02:24:40+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+Created on 2023-07-21T02:46:08+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
 
