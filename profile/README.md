@@ -96,9 +96,10 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [env2dart](https://github.com/fluttercandies/env2dart) | A simple way to generate  code from a  file. | 1 | 2023-03-22T05:54:17Z |
 | [harmony_os_version](https://github.com/fluttercandies/harmony_os_version) | <no description> | 1 | 2023-07-11T08:53:47Z |
 | [upgrade_tool](https://github.com/fluttercandies/upgrade_tool) | Resolve warnings caused by xxxbinding. Instance in Flutter 3.0 | 0 | 2022-06-03T04:09:31Z |
+| [flutter_app_build_tool](https://github.com/fluttercandies/flutter_app_build_tool) | A CLI tool that helps to build Flutter apps. | 0 | 2023-07-21T02:23:09Z |
 
 
 </details>
 
-Created on 2023-07-21T01:19:16+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+Created on 2023-07-21T02:24:40+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
 
