@@ -29,7 +29,7 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [extended_tabs](https://github.com/fluttercandies/extended_tabs) | A powerful official extension library of Tab/TabBar/TabView, which support to scroll ancestor or child Tabs when current is overscroll, and set scroll direction and cache extent. | 221 | 2023-08-09T03:44:03Z |
 | [FlutterJsonBeanFactory](https://github.com/fluttercandies/FlutterJsonBeanFactory) | What I do is generate dart beans based on json, as well as generics parameters and json build instances | 220 | 2023-08-04T11:13:27Z |
 | [pull_to_refresh_notification](https://github.com/fluttercandies/pull_to_refresh_notification) | Flutter plugin for building pull to refresh effects with PullToRefreshNotification and PullToRefreshContainer quickly. | 171 | 2023-08-08T08:09:25Z |
-| [flutter_interactional_widget](https://github.com/fluttercandies/flutter_interactional_widget) | <no description> | 154 | 2023-07-03T06:43:52Z |
+| [flutter_interactional_widget](https://github.com/fluttercandies/flutter_interactional_widget) | <no description> | 155 | 2023-08-09T13:53:23Z |
 | [flutter-interactive-chart](https://github.com/fluttercandies/flutter-interactive-chart) | A candlestick chart that supports pinch-to-zoom and panning. | 152 | 2023-08-02T20:41:10Z |
 | [extended_image_library](https://github.com/fluttercandies/extended_image_library) |  package library for extended_image, extended_text and extended_text_field,provide common base class. | 137 | 2023-07-30T11:11:21Z |
 | [extended_sliver](https://github.com/fluttercandies/extended_sliver) | A powerful extension library of Sliver, which include SliverToNestedScrollBoxAdapter， SliverPinnedPersistentHeader, SliverPinnedToBoxAdapter and ExtendedSliverAppbar. | 132 | 2023-07-31T04:48:35Z |
@@ -101,5 +101,5 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 
 </details>
 
-Created on 2023-08-09T12:27:50+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+Created on 2023-08-09T16:19:22+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
 
