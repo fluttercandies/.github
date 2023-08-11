@@ -8,8 +8,8 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 
 | Name | Description | Stars | Latest Commit |
 | ---- | --- | ----------- | ------------- |
-| [wechat_flutter](https://github.com/fluttercandies/wechat_flutter) | wechat_flutter is Flutter version WeChat, an excellent Flutter instant messaging IM open source library! | 2317 | 2023-08-11T02:17:39Z |
-| [NeteaseCloudMusic](https://github.com/fluttercandies/NeteaseCloudMusic) | Flutter - NeteaseCloudMusic  Flutter 版本的网易云音乐 | 1743 | 2023-07-07T02:15:13Z |
+| [wechat_flutter](https://github.com/fluttercandies/wechat_flutter) | wechat_flutter is Flutter version WeChat, an excellent Flutter instant messaging IM open source library! | 2319 | 2023-08-11T07:48:22Z |
+| [NeteaseCloudMusic](https://github.com/fluttercandies/NeteaseCloudMusic) | Flutter - NeteaseCloudMusic  Flutter 版本的网易云音乐 | 1742 | 2023-08-11T06:18:33Z |
 | [extended_image](https://github.com/fluttercandies/extended_image) | A powerful official extension library of image, which support placeholder(loading)/ failed state, cache network, zoom pan image, photo view, slide out page, editor(crop,rotate,flip), paint custom etc. | 1703 | 2023-08-01T17:59:52Z |
 | [flutter_wechat_assets_picker](https://github.com/fluttercandies/flutter_wechat_assets_picker) | An image picker (also with video and audio) for Flutter projects based on the WeChat's UI. | 1303 | 2023-08-06T17:13:00Z |
 | [flutter_smart_dialog](https://github.com/fluttercandies/flutter_smart_dialog) | An elegant Flutter Dialog solution \| 一种更优雅的 Flutter Dialog 解决方案 | 886 | 2023-08-11T03:38:11Z |
@@ -37,7 +37,7 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [flutter_filereader](https://github.com/fluttercandies/flutter_filereader) | Flutter实现的本地文件(pdf word excel 等)查看插件,非在线预览 | 106 | 2023-08-08T06:48:19Z |
 | [nav_router](https://github.com/fluttercandies/nav_router) | flutter The lightest, easiest and most convenient route management! | 104 | 2023-05-01T02:52:29Z |
 | [w_popup_menu](https://github.com/fluttercandies/w_popup_menu) | w_popup_menu # A pop-up menu that mimics the iOS WeChat page | 89 | 2023-05-24T00:59:31Z |
-| [flutter_drawing_board](https://github.com/fluttercandies/flutter_drawing_board) | A new Flutter package of drawing board | 87 | 2023-08-11T01:54:20Z |
+| [flutter_drawing_board](https://github.com/fluttercandies/flutter_drawing_board) | A new Flutter package of drawing board | 88 | 2023-08-11T05:00:52Z |
 | [left-scroll-actions](https://github.com/fluttercandies/left-scroll-actions) | Flutter的左滑删除组件 | 81 | 2023-07-23T03:27:12Z |
 | [flutter_asset_generator](https://github.com/fluttercandies/flutter_asset_generator) | Generate an R file for mapping all assets. Supports preview of image. | 74 | 2023-08-02T07:45:32Z |
 | [extended_text_library](https://github.com/fluttercandies/extended_text_library) | extended_text_library for extended_text and extended_text_field | 74 | 2023-07-30T06:31:06Z |
@@ -101,5 +101,5 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 
 </details>
 
-Created on 2023-08-11T04:15:11+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+Created on 2023-08-11T08:15:34+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
 
