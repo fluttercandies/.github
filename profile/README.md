@@ -14,7 +14,7 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [flutter_wechat_assets_picker](https://github.com/fluttercandies/flutter_wechat_assets_picker) | An image picker (also with video and audio) for Flutter projects based on the WeChat's UI. | 1311 | 2023-08-24T01:57:47Z |
 | [flutter_smart_dialog](https://github.com/fluttercandies/flutter_smart_dialog) | An elegant Flutter Dialog solution \| 一种更优雅的 Flutter Dialog 解决方案 | 892 | 2023-08-22T08:18:45Z |
 | [flutter_candies](https://github.com/fluttercandies/flutter_candies) | custom flutter candies(widgets) for you to build flutter app easily, enjoy it   | 789 | 2023-08-19T17:14:14Z |
-| [flutter_photo_manager](https://github.com/fluttercandies/flutter_photo_manager) | A Flutter plugin that provides images, videos, and audio abstraction management APIs without interface integration, available on Android, iOS, and macOS. | 582 | 2023-08-21T20:23:29Z |
+| [flutter_photo_manager](https://github.com/fluttercandies/flutter_photo_manager) | A Flutter plugin that provides images, videos, and audio abstraction management APIs without interface integration, available on Android, iOS, and macOS. | 584 | 2023-08-24T08:08:26Z |
 | [extended_text](https://github.com/fluttercandies/extended_text) | A powerful extended official text for Flutter, which supports Speical Text(Image,@somebody), Custom Background, Custom overFlow, Text Selection. | 568 | 2023-08-22T10:05:26Z |
 | [flutter_image_compress](https://github.com/fluttercandies/flutter_image_compress) | flutter image compress | 551 | 2023-08-14T15:32:42Z |
 | [extended_nested_scroll_view](https://github.com/fluttercandies/extended_nested_scroll_view) | extended nested scroll view to fix following issues.  1.pinned sliver header issue  2.inner scrollables in tabview sync issue  3.pull to refresh is not work. 4.do without ScrollController in NestedScrollView's body | 523 | 2023-08-22T10:00:43Z |
@@ -61,9 +61,9 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [baidupan](https://github.com/fluttercandies/baidupan) | Baidu net disk api for dart, 百度网盘的 dart 库 | 20 | 2023-08-19T23:28:58Z |
 | [flutter_live_activities](https://github.com/fluttercandies/flutter_live_activities) | Flutter Live Activities Plugin | 19 | 2023-01-15T13:24:41Z |
 | [extra_hittest_area](https://github.com/fluttercandies/extra_hittest_area) | Manually add the extra hitTest area of a widget without changing its size or layout. | 17 | 2023-07-14T10:06:43Z |
+| [flutter_slider_view](https://github.com/fluttercandies/flutter_slider_view) | A slider view widget that supports custom type models and various configs. | 16 | 2023-08-24T05:30:51Z |
 | [flutter_learning_tests](https://github.com/fluttercandies/flutter_learning_tests) | 学习 Flutter 路上的点滴及小测~ | 15 | 2023-05-18T09:52:57Z |
 | [flutter_mlkit_scan_plugin](https://github.com/fluttercandies/flutter_mlkit_scan_plugin) | <no description> | 15 | 2023-03-12T09:04:47Z |
-| [flutter_slider_view](https://github.com/fluttercandies/flutter_slider_view) | A slider view widget that supports custom type models and various configs. | 15 | 2022-08-17T12:45:56Z |
 | [ios_willpop_transition_theme](https://github.com/fluttercandies/ios_willpop_transition_theme) | A Flutter package to solve the conflict between ios sliding back and Willpop | 14 | 2023-08-16T10:29:25Z |
 | [saver_gallery](https://github.com/fluttercandies/saver_gallery) | <no description> | 11 | 2023-05-15T14:30:59Z |
 | [candies_analyzer_plugin](https://github.com/fluttercandies/candies_analyzer_plugin) | The plugin to help create custom analyzer plugin quickly and provide some useful lints and get suggestion and auto import for extension member. | 11 | 2023-02-20T06:47:04Z |
@@ -101,5 +101,5 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 
 </details>
 
-Created on 2023-08-24T04:14:44+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+Created on 2023-08-24T08:16:10+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
 
