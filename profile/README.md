@@ -24,7 +24,7 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [flutter_image_editor](https://github.com/fluttercandies/flutter_image_editor) | Flutter plugin, support android/ios.Support crop, flip, rotate, color martix, mix image, add text. merge multi images. | 350 | 2023-08-25T07:52:31Z |
 | [JsonToDart](https://github.com/fluttercandies/JsonToDart) | The tool to convert json to dart code, support Windows，Mac，Web. | 338 | 2023-08-17T05:19:20Z |
 | [waterfall_flow](https://github.com/fluttercandies/waterfall_flow) | A Flutter grid view which supports waterfall flow layout. | 320 | 2023-08-18T09:53:39Z |
-| [loading_more_list](https://github.com/fluttercandies/loading_more_list) | A loading more list which supports ListView,GridView,WaterfallFlow and Slivers. | 313 | 2023-08-23T00:39:55Z |
+| [loading_more_list](https://github.com/fluttercandies/loading_more_list) | A loading more list which supports ListView,GridView,WaterfallFlow and Slivers. | 314 | 2023-08-27T03:22:36Z |
 | [flutter_wechat_camera_picker](https://github.com/fluttercandies/flutter_wechat_camera_picker) | A camera picker (take photos and videos) for Flutter projects based on WeChat's UI. It's a standalone module of wechat_assets_picker yet it can be run separately. | 305 | 2023-08-19T13:52:28Z |
 | [FlutterJsonBeanFactory](https://github.com/fluttercandies/FlutterJsonBeanFactory) | What I do is generate dart beans based on json, as well as generics parameters and json build instances | 224 | 2023-08-16T03:44:49Z |
 | [extended_tabs](https://github.com/fluttercandies/extended_tabs) | A powerful official extension library of Tab/TabBar/TabView, which support to scroll ancestor or child Tabs when current is overscroll, and set scroll direction and cache extent. | 223 | 2023-08-21T13:11:31Z |
@@ -44,7 +44,7 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [no-free-usage-action](https://github.com/fluttercandies/no-free-usage-action) | A NO-FREE-USAGE action for github. (Only worked with github action.) | 59 | 2023-06-27T03:32:14Z |
 | [flex_grid](https://github.com/fluttercandies/flex_grid) | The FlexGrid control provides a powerful and quickly way to display data in a tabular format. It is including that frozened column/row,loading more, high performance and better experience in TabBarView/PageView. | 51 | 2023-07-28T02:50:41Z |
 | [stack_board](https://github.com/fluttercandies/stack_board) | 层叠控件摆放 | 51 | 2023-08-23T05:25:20Z |
-| [flutter_hsvcolor_picker](https://github.com/fluttercandies/flutter_hsvcolor_picker) | A HSV color picker for your flutter app. RGB HSV Wheel Hue Saturation Values. | 50 | 2023-03-31T09:37:38Z |
+| [flutter_hsvcolor_picker](https://github.com/fluttercandies/flutter_hsvcolor_picker) | An HSV color picker designed for your Flutter app.  Pickers: RGB, HSV, Color Wheel, Palette Hue, Palette Saturation, Palette Value, Swatches. | 50 | 2023-08-27T01:59:48Z |
 | [extended_list](https://github.com/fluttercandies/extended_list) | extended list(ListView/GridView) support track collect garbage of children/viewport indexes, build lastChild as special child in the case that it is loadmore/no more item and enable to layout close to trailing. | 44 | 2022-10-08T01:30:43Z |
 | [ripple_backdrop_animate_route](https://github.com/fluttercandies/ripple_backdrop_animate_route) | A ripple animation with backdrop of route. | 43 | 2023-07-04T06:15:22Z |
 | [flutter_juejin](https://github.com/fluttercandies/flutter_juejin) | https://juejin.cn in Flutter | 40 | 2023-07-26T04:03:48Z |
@@ -101,5 +101,5 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 
 </details>
 
-Created on 2023-08-27T01:00:33+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+Created on 2023-08-27T04:14:34+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
 
