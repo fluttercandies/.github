@@ -8,10 +8,10 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 
 | Name | Description | Stars | Latest Commit |
 | ---- | --- | ----------- | ------------- |
-| [wechat_flutter](https://github.com/fluttercandies/wechat_flutter) | wechat_flutter is Flutter version WeChat, an excellent Flutter instant messaging IM open source library! | 2324 | 2023-08-30T22:31:35Z |
+| [wechat_flutter](https://github.com/fluttercandies/wechat_flutter) | wechat_flutter is Flutter version WeChat, an excellent Flutter instant messaging IM open source library! | 2323 | 2023-08-31T01:48:01Z |
 | [NeteaseCloudMusic](https://github.com/fluttercandies/NeteaseCloudMusic) | Flutter - NeteaseCloudMusic  Flutter 版本的网易云音乐 | 1744 | 2023-08-21T15:16:08Z |
 | [extended_image](https://github.com/fluttercandies/extended_image) | A powerful official extension library of image, which support placeholder(loading)/ failed state, cache network, zoom pan image, photo view, slide out page, editor(crop,rotate,flip), paint custom etc. | 1718 | 2023-08-30T14:13:18Z |
-| [flutter_wechat_assets_picker](https://github.com/fluttercandies/flutter_wechat_assets_picker) | An image picker (also with video and audio) for Flutter projects based on the WeChat's UI. | 1318 | 2023-08-30T08:46:17Z |
+| [flutter_wechat_assets_picker](https://github.com/fluttercandies/flutter_wechat_assets_picker) | An image picker (also with video and audio) for Flutter projects based on the WeChat's UI. | 1319 | 2023-08-31T02:17:08Z |
 | [flutter_smart_dialog](https://github.com/fluttercandies/flutter_smart_dialog) | An elegant Flutter Dialog solution \| 一种更优雅的 Flutter Dialog 解决方案 | 892 | 2023-08-30T22:31:35Z |
 | [flutter_candies](https://github.com/fluttercandies/flutter_candies) | custom flutter candies(widgets) for you to build flutter app easily, enjoy it   | 790 | 2023-08-29T17:27:16Z |
 | [flutter_photo_manager](https://github.com/fluttercandies/flutter_photo_manager) | A Flutter plugin that provides images, videos, and audio abstraction management APIs without interface integration, available on Android, iOS, and macOS. | 584 | 2023-08-24T08:08:26Z |
@@ -100,5 +100,5 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 
 </details>
 
-Created on 2023-08-31T00:58:03+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+Created on 2023-08-31T04:15:38+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
 
