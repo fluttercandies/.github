@@ -8,7 +8,7 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 
 | Name | Description | Stars | Latest Commit |
 | ---- | --- | ----------- | ------------- |
-| [wechat_flutter](https://github.com/fluttercandies/wechat_flutter) | wechat_flutter is Flutter version WeChat, an excellent Flutter instant messaging IM open source library! | 2327 | 2023-09-12T02:58:30Z |
+| [wechat_flutter](https://github.com/fluttercandies/wechat_flutter) | wechat_flutter is Flutter version WeChat, an excellent Flutter instant messaging IM open source library! | 2328 | 2023-09-14T02:15:16Z |
 | [NeteaseCloudMusic](https://github.com/fluttercandies/NeteaseCloudMusic) | Flutter - NeteaseCloudMusic  Flutter 版本的网易云音乐 | 1743 | 2023-09-07T09:59:35Z |
 | [extended_image](https://github.com/fluttercandies/extended_image) | A powerful official extension library of image, which support placeholder(loading)/ failed state, cache network, zoom pan image, photo view, slide out page, editor(crop,rotate,flip), paint custom etc. | 1728 | 2023-09-09T08:45:40Z |
 | [flutter_wechat_assets_picker](https://github.com/fluttercandies/flutter_wechat_assets_picker) | An image picker (also with video and audio) for Flutter projects based on the WeChat's UI. | 1332 | 2023-09-12T03:32:01Z |
@@ -17,7 +17,7 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [flutter_photo_manager](https://github.com/fluttercandies/flutter_photo_manager) | A Flutter plugin that provides images, videos, and audio abstraction management APIs without interface integration, available on Android, iOS, and macOS. | 584 | 2023-09-08T17:44:52Z |
 | [extended_text](https://github.com/fluttercandies/extended_text) | A powerful extended official text for Flutter, which supports Speical Text(Image,@somebody), Custom Background, Custom overFlow, Text Selection. | 570 | 2023-09-08T17:51:28Z |
 | [flutter_image_compress](https://github.com/fluttercandies/flutter_image_compress) | flutter image compress | 556 | 2023-09-13T05:51:37Z |
-| [extended_nested_scroll_view](https://github.com/fluttercandies/extended_nested_scroll_view) | extended nested scroll view to fix following issues.  1.pinned sliver header issue  2.inner scrollables in tabview sync issue  3.pull to refresh is not work. 4.do without ScrollController in NestedScrollView's body | 528 | 2023-09-08T17:50:27Z |
+| [extended_nested_scroll_view](https://github.com/fluttercandies/extended_nested_scroll_view) | extended nested scroll view to fix following issues.  1.pinned sliver header issue  2.inner scrollables in tabview sync issue  3.pull to refresh is not work. 4.do without ScrollController in NestedScrollView's body | 529 | 2023-09-14T03:43:33Z |
 | [flutter_custom_calendar](https://github.com/fluttercandies/flutter_custom_calendar) | Flutter的一个日历控件 | 493 | 2023-09-09T05:50:54Z |
 | [extended_text_field](https://github.com/fluttercandies/extended_text_field) | extended official text field to quickly build special text like inline image, @somebody, custom background etc. | 480 | 2023-09-12T02:43:25Z |
 | [like_button](https://github.com/fluttercandies/like_button) | Like Button is a flutter library that allows you to create a button with animation effects similar to Twitter's heart when you like something and animation effects to increase like count. | 403 | 2023-09-12T11:10:55Z |
@@ -26,7 +26,7 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [waterfall_flow](https://github.com/fluttercandies/waterfall_flow) | A Flutter grid view which supports waterfall flow layout. | 323 | 2023-09-09T16:20:37Z |
 | [loading_more_list](https://github.com/fluttercandies/loading_more_list) | A loading more list which supports ListView,GridView,WaterfallFlow and Slivers. | 317 | 2023-09-12T11:18:49Z |
 | [flutter_wechat_camera_picker](https://github.com/fluttercandies/flutter_wechat_camera_picker) | A camera picker (take photos and videos) for Flutter projects based on WeChat's UI. It's a standalone module of wechat_assets_picker yet it can be run separately. | 312 | 2023-09-07T14:13:55Z |
-| [FlutterJsonBeanFactory](https://github.com/fluttercandies/FlutterJsonBeanFactory) | What I do is generate dart beans based on json, as well as generics parameters and json build instances | 294 | 2023-09-13T22:45:20Z |
+| [FlutterJsonBeanFactory](https://github.com/fluttercandies/FlutterJsonBeanFactory) | What I do is generate dart beans based on json, as well as generics parameters and json build instances | 296 | 2023-09-14T03:14:41Z |
 | [extended_tabs](https://github.com/fluttercandies/extended_tabs) | A powerful official extension library of Tab/TabBar/TabView, which support to scroll ancestor or child Tabs when current is overscroll, and set scroll direction and cache extent. | 225 | 2023-09-05T11:28:54Z |
 | [pull_to_refresh_notification](https://github.com/fluttercandies/pull_to_refresh_notification) | Flutter plugin for building pull to refresh effects with PullToRefreshNotification and PullToRefreshContainer quickly. | 176 | 2023-09-12T11:18:35Z |
 | [flutter-interactive-chart](https://github.com/fluttercandies/flutter-interactive-chart) | A candlestick chart that supports pinch-to-zoom and panning. | 158 | 2023-09-02T10:35:42Z |
@@ -44,7 +44,7 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [no-free-usage-action](https://github.com/fluttercandies/no-free-usage-action) | A NO-FREE-USAGE action for github. (Only worked with github action.) | 59 | 2023-06-27T03:32:14Z |
 | [flutter_hsvcolor_picker](https://github.com/fluttercandies/flutter_hsvcolor_picker) | An HSV color picker designed for your Flutter app.  Pickers: RGB, HSV, Color Wheel, Palette Hue, Palette Saturation, Palette Value, Swatches. | 54 | 2023-09-11T00:14:49Z |
 | [stack_board](https://github.com/fluttercandies/stack_board) | 层叠控件摆放 | 52 | 2023-09-11T17:14:32Z |
-| [flex_grid](https://github.com/fluttercandies/flex_grid) | The FlexGrid control provides a powerful and quickly way to display data in a tabular format. It is including that frozened column/row,loading more, high performance and better experience in TabBarView/PageView. | 51 | 2023-07-28T02:50:41Z |
+| [flex_grid](https://github.com/fluttercandies/flex_grid) | The FlexGrid control provides a powerful and quickly way to display data in a tabular format. It is including that frozened column/row,loading more, high performance and better experience in TabBarView/PageView. | 51 | 2023-09-14T03:59:28Z |
 | [extended_list](https://github.com/fluttercandies/extended_list) | extended list(ListView/GridView) support track collect garbage of children/viewport indexes, build lastChild as special child in the case that it is loadmore/no more item and enable to layout close to trailing. | 45 | 2023-08-30T03:50:28Z |
 | [ripple_backdrop_animate_route](https://github.com/fluttercandies/ripple_backdrop_animate_route) | A ripple animation with backdrop of route. | 43 | 2023-07-04T06:15:22Z |
 | [flutter_juejin](https://github.com/fluttercandies/flutter_juejin) | https://juejin.cn in Flutter | 40 | 2023-07-26T04:03:48Z |
@@ -100,5 +100,5 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 
 </details>
 
-Created on 2023-09-14T00:57:52+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+Created on 2023-09-14T04:15:18+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
 
