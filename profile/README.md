@@ -25,8 +25,8 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [JsonToDart](https://github.com/fluttercandies/JsonToDart) | The tool to convert json to dart code, support Windows，Mac，Web. | 338 | 2023-08-17T05:19:20Z |
 | [waterfall_flow](https://github.com/fluttercandies/waterfall_flow) | A Flutter grid view which supports waterfall flow layout. | 323 | 2023-09-09T16:20:37Z |
 | [loading_more_list](https://github.com/fluttercandies/loading_more_list) | A loading more list which supports ListView,GridView,WaterfallFlow and Slivers. | 317 | 2023-09-12T11:18:49Z |
+| [FlutterJsonBeanFactory](https://github.com/fluttercandies/FlutterJsonBeanFactory) | What I do is generate dart beans based on json, as well as generics parameters and json build instances | 315 | 2023-09-18T23:48:05Z |
 | [flutter_wechat_camera_picker](https://github.com/fluttercandies/flutter_wechat_camera_picker) | A camera picker (take photos and videos) for Flutter projects based on WeChat's UI. It's a standalone module of wechat_assets_picker yet it can be run separately. | 313 | 2023-09-17T02:21:13Z |
-| [FlutterJsonBeanFactory](https://github.com/fluttercandies/FlutterJsonBeanFactory) | What I do is generate dart beans based on json, as well as generics parameters and json build instances | 312 | 2023-09-18T13:02:39Z |
 | [extended_tabs](https://github.com/fluttercandies/extended_tabs) | A powerful official extension library of Tab/TabBar/TabView, which support to scroll ancestor or child Tabs when current is overscroll, and set scroll direction and cache extent. | 225 | 2023-09-05T11:28:54Z |
 | [pull_to_refresh_notification](https://github.com/fluttercandies/pull_to_refresh_notification) | Flutter plugin for building pull to refresh effects with PullToRefreshNotification and PullToRefreshContainer quickly. | 176 | 2023-09-12T11:18:35Z |
 | [flutter-interactive-chart](https://github.com/fluttercandies/flutter-interactive-chart) | A candlestick chart that supports pinch-to-zoom and panning. | 157 | 2023-09-17T03:48:22Z |
@@ -100,5 +100,5 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 
 </details>
 
-Created on 2023-09-18T20:13:38+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+Created on 2023-09-19T00:58:56+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
 
