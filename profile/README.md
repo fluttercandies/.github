@@ -33,7 +33,7 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [flutter-interactive-chart](https://github.com/fluttercandies/flutter-interactive-chart) | A candlestick chart that supports pinch-to-zoom and panning. | 159 | 2023-10-14T15:26:38Z |
 | [flutter_interactional_widget](https://github.com/fluttercandies/flutter_interactional_widget) | <no description> | 158 | 2023-10-18T10:06:21Z |
 | [extended_image_library](https://github.com/fluttercandies/extended_image_library) |  package library for extended_image, extended_text and extended_text_field,provide common base class. | 140 | 2023-10-12T01:11:30Z |
-| [extended_sliver](https://github.com/fluttercandies/extended_sliver) | A powerful extension library of Sliver, which include SliverToNestedScrollBoxAdapter， SliverPinnedPersistentHeader, SliverPinnedToBoxAdapter and ExtendedSliverAppbar. | 136 | 2023-09-10T15:26:08Z |
+| [extended_sliver](https://github.com/fluttercandies/extended_sliver) | A powerful extension library of Sliver, which include SliverToNestedScrollBoxAdapter， SliverPinnedPersistentHeader, SliverPinnedToBoxAdapter and ExtendedSliverAppbar. | 137 | 2023-10-19T02:33:17Z |
 | [ff_annotation_route](https://github.com/fluttercandies/ff_annotation_route) | Provide route generator to create route map quickly by annotations. | 116 | 2023-09-19T06:48:20Z |
 | [flutter_filereader](https://github.com/fluttercandies/flutter_filereader) | Flutter实现的本地文件(pdf word excel 等)查看插件,非在线预览 | 108 | 2023-09-20T03:06:11Z |
 | [nav_router](https://github.com/fluttercandies/nav_router) | flutter The lightest, easiest and most convenient route management! | 104 | 2023-05-01T02:52:29Z |
@@ -44,7 +44,7 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [extended_text_library](https://github.com/fluttercandies/extended_text_library) | extended_text_library for extended_text and extended_text_field | 74 | 2023-09-08T17:53:15Z |
 | [no-free-usage-action](https://github.com/fluttercandies/no-free-usage-action) | A NO-FREE-USAGE action for github. (Only worked with github action.) | 59 | 2023-06-27T03:32:14Z |
 | [flutter_hsvcolor_picker](https://github.com/fluttercandies/flutter_hsvcolor_picker) | An HSV color picker designed for your Flutter app.  Pickers: RGB, HSV, Color Wheel, Palette Hue, Palette Saturation, Palette Value, Swatches. | 56 | 2023-10-12T15:29:44Z |
-| [stack_board](https://github.com/fluttercandies/stack_board) | 层叠控件摆放 | 53 | 2023-09-20T06:57:56Z |
+| [stack_board](https://github.com/fluttercandies/stack_board) | 层叠控件摆放 | 54 | 2023-10-19T01:36:14Z |
 | [flex_grid](https://github.com/fluttercandies/flex_grid) | The FlexGrid control provides a powerful and quickly way to display data in a tabular format. It is including that frozened column/row,loading more, high performance and better experience in TabBarView/PageView. | 51 | 2023-09-14T03:59:28Z |
 | [extended_list](https://github.com/fluttercandies/extended_list) | extended list(ListView/GridView) support track collect garbage of children/viewport indexes, build lastChild as special child in the case that it is loadmore/no more item and enable to layout close to trailing. | 46 | 2023-10-06T14:44:31Z |
 | [ripple_backdrop_animate_route](https://github.com/fluttercandies/ripple_backdrop_animate_route) | A ripple animation with backdrop of route. | 43 | 2023-07-04T06:15:22Z |
@@ -64,8 +64,8 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [flutter_slider_view](https://github.com/fluttercandies/flutter_slider_view) | A slider view widget that supports custom type models and various configs. | 19 | 2023-10-18T02:08:30Z |
 | [extra_hittest_area](https://github.com/fluttercandies/extra_hittest_area) | Manually add the extra hitTest area of a widget without changing its size or layout. | 17 | 2023-09-19T04:13:38Z |
 | [flutter_learning_tests](https://github.com/fluttercandies/flutter_learning_tests) | 学习 Flutter 路上的点滴及小测~ | 16 | 2023-09-26T15:16:33Z |
+| [ios_willpop_transition_theme](https://github.com/fluttercandies/ios_willpop_transition_theme) | A Flutter package to solve the conflict between ios sliding back and Willpop | 16 | 2023-10-19T01:35:36Z |
 | [flutter_mlkit_scan_plugin](https://github.com/fluttercandies/flutter_mlkit_scan_plugin) | <no description> | 15 | 2023-03-12T09:04:47Z |
-| [ios_willpop_transition_theme](https://github.com/fluttercandies/ios_willpop_transition_theme) | A Flutter package to solve the conflict between ios sliding back and Willpop | 15 | 2023-10-06T21:57:22Z |
 | [saver_gallery](https://github.com/fluttercandies/saver_gallery) | <no description> | 11 | 2023-05-15T14:30:59Z |
 | [candies_analyzer_plugin](https://github.com/fluttercandies/candies_analyzer_plugin) | The plugin to help create custom analyzer plugin quickly and provide some useful lints and get suggestion and auto import for extension member. | 11 | 2023-02-20T06:47:04Z |
 | [flutter_candies_gallery](https://github.com/fluttercandies/flutter_candies_gallery) | flutter_candies | 10 | 2023-05-06T00:49:19Z |
@@ -101,5 +101,5 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 
 </details>
 
-Created on 2023-10-19T00:50:14+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+Created on 2023-10-19T04:12:58+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
 
