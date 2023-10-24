@@ -21,7 +21,7 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [flutter_custom_calendar](https://github.com/fluttercandies/flutter_custom_calendar) | Flutter的一个日历控件 | 495 | 2023-10-16T04:59:34Z |
 | [extended_text_field](https://github.com/fluttercandies/extended_text_field) | extended official text field to quickly build special text like inline image, @somebody, custom background etc. | 487 | 2023-10-15T09:41:50Z |
 | [like_button](https://github.com/fluttercandies/like_button) | Like Button is a flutter library that allows you to create a button with animation effects similar to Twitter's heart when you like something and animation effects to increase like count. | 411 | 2023-10-24T00:04:52Z |
-| [FlutterJsonBeanFactory](https://github.com/fluttercandies/FlutterJsonBeanFactory) | What I do is generate dart beans based on json, as well as generics parameters and json build instances | 399 | 2023-10-24T02:39:20Z |
+| [FlutterJsonBeanFactory](https://github.com/fluttercandies/FlutterJsonBeanFactory) | What I do is generate dart beans based on json, as well as generics parameters and json build instances | 400 | 2023-10-24T06:26:23Z |
 | [flutter_image_editor](https://github.com/fluttercandies/flutter_image_editor) | Flutter plugin, support android/ios.Support crop, flip, rotate, color martix, mix image, add text. merge multi images. | 367 | 2023-10-23T16:27:17Z |
 | [JsonToDart](https://github.com/fluttercandies/JsonToDart) | The tool to convert json to dart code, support Windows，Mac，Web. | 339 | 2023-10-23T09:45:03Z |
 | [waterfall_flow](https://github.com/fluttercandies/waterfall_flow) | A Flutter grid view which supports waterfall flow layout. | 326 | 2023-10-21T05:04:13Z |
@@ -92,15 +92,16 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [env2dart](https://github.com/fluttercandies/env2dart) | A simple way to generate  code from a  file. | 3 | 2023-09-21T03:25:21Z |
 | [blue_flutter](https://github.com/fluttercandies/blue_flutter) | blue_flutter是flutter的蓝牙通讯插件 | 2 | 2021-02-22T01:22:32Z |
 | [ff_annotation_route_core](https://github.com/fluttercandies/ff_annotation_route_core) | The core library for ff_annotation_route | 2 | 2023-05-30T08:23:39Z |
+| [flutter_clean](https://github.com/fluttercandies/flutter_clean) | help clean all of Flutter and Dart projects | 2 | 2023-10-24T05:52:00Z |
 | [upgrade_tool](https://github.com/fluttercandies/upgrade_tool) | Resolve warnings caused by xxxbinding. Instance in Flutter 3.0 | 2 | 2023-09-27T09:04:46Z |
 | [dart_wake_on_lan](https://github.com/fluttercandies/dart_wake_on_lan) | A CLI application to send Wake-On-Lan packets. | 2 | 2023-10-02T07:47:16Z |
 | [flutter_bindings_compatible](https://github.com/fluttercandies/flutter_bindings_compatible) | Provides compatible bindings instance across different Flutter version. | 1 | 2022-05-16T01:14:38Z |
 | [flutter_candies_jpush](https://github.com/fluttercandies/flutter_candies_jpush) | 极光Flutter推送插件 | 1 | 2022-06-13T02:40:48Z |
-| [flutter_clean](https://github.com/fluttercandies/flutter_clean) | help clean all of Flutter and Dart projects | 1 | 2022-05-30T03:19:53Z |
 | [harmony_os_version](https://github.com/fluttercandies/harmony_os_version) | <no description> | 1 | 2023-07-11T08:53:47Z |
+| [flutter_photo_manager_plugins](https://github.com/fluttercandies/flutter_photo_manager_plugins) | Extra plugins for the photo_manager plugin. | 1 | 2023-10-24T07:25:15Z |
 
 
 </details>
 
-Created on 2023-10-24T04:12:43+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+Created on 2023-10-24T08:14:28+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
 
