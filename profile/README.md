@@ -12,7 +12,7 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [extended_image](https://github.com/fluttercandies/extended_image) | A powerful official extension library of image, which support placeholder(loading)/ failed state, cache network, zoom pan image, photo view, slide out page, editor(crop,rotate,flip), paint custom etc. | 1754 | 2023-10-28T06:52:35Z |
 | [NeteaseCloudMusic](https://github.com/fluttercandies/NeteaseCloudMusic) | Flutter - NeteaseCloudMusic  Flutter 版本的网易云音乐 | 1748 | 2023-10-25T06:54:25Z |
 | [flutter_wechat_assets_picker](https://github.com/fluttercandies/flutter_wechat_assets_picker) | An image picker (also with video and audio) for Flutter projects based on the WeChat's UI. | 1348 | 2023-10-26T04:07:05Z |
-| [flutter_smart_dialog](https://github.com/fluttercandies/flutter_smart_dialog) | An elegant Flutter Dialog solution \| 一种更优雅的 Flutter Dialog 解决方案 | 928 | 2023-10-27T06:34:12Z |
+| [flutter_smart_dialog](https://github.com/fluttercandies/flutter_smart_dialog) | An elegant Flutter Dialog solution \| 一种更优雅的 Flutter Dialog 解决方案 | 929 | 2023-10-28T08:33:43Z |
 | [flutter_candies](https://github.com/fluttercandies/flutter_candies) | custom flutter candies(widgets) for you to build flutter app easily, enjoy it   | 791 | 2023-10-26T03:08:49Z |
 | [flutter_photo_manager](https://github.com/fluttercandies/flutter_photo_manager) | A Flutter plugin that provides images, videos, and audio abstraction management APIs without interface integration, available on Android, iOS, and macOS. | 599 | 2023-10-26T03:22:57Z |
 | [extended_text](https://github.com/fluttercandies/extended_text) | A powerful extended official text for Flutter, which supports Speical Text(Image,@somebody), Custom Background, Custom overFlow, Text Selection. | 578 | 2023-10-27T03:31:13Z |
@@ -21,14 +21,14 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [flutter_custom_calendar](https://github.com/fluttercandies/flutter_custom_calendar) | Flutter的一个日历控件 | 495 | 2023-10-16T04:59:34Z |
 | [extended_text_field](https://github.com/fluttercandies/extended_text_field) | extended official text field to quickly build special text like inline image, @somebody, custom background etc. | 491 | 2023-10-27T09:37:52Z |
 | [like_button](https://github.com/fluttercandies/like_button) | Like Button is a flutter library that allows you to create a button with animation effects similar to Twitter's heart when you like something and animation effects to increase like count. | 412 | 2023-10-27T07:05:48Z |
-| [FlutterJsonBeanFactory](https://github.com/fluttercandies/FlutterJsonBeanFactory) | What I do is generate dart beans based on json, as well as generics parameters and json build instances | 407 | 2023-10-27T13:10:20Z |
+| [FlutterJsonBeanFactory](https://github.com/fluttercandies/FlutterJsonBeanFactory) | What I do is generate dart beans based on json, as well as generics parameters and json build instances | 408 | 2023-10-28T11:38:36Z |
 | [flutter_image_editor](https://github.com/fluttercandies/flutter_image_editor) | Flutter plugin, support android/ios.Support crop, flip, rotate, color martix, mix image, add text. merge multi images. | 367 | 2023-10-23T16:27:17Z |
 | [JsonToDart](https://github.com/fluttercandies/JsonToDart) | The tool to convert json to dart code, support Windows，Mac，Web. | 340 | 2023-10-27T09:44:07Z |
 | [waterfall_flow](https://github.com/fluttercandies/waterfall_flow) | A Flutter grid view which supports waterfall flow layout. | 327 | 2023-10-24T13:39:38Z |
 | [loading_more_list](https://github.com/fluttercandies/loading_more_list) | A loading more list which supports ListView,GridView,WaterfallFlow and Slivers. | 321 | 2023-10-15T03:16:43Z |
 | [flutter_wechat_camera_picker](https://github.com/fluttercandies/flutter_wechat_camera_picker) | A camera picker (take photos and videos) for Flutter projects based on WeChat's UI. It's a standalone module of wechat_assets_picker yet it can be run separately. | 319 | 2023-10-26T04:07:39Z |
 | [extended_tabs](https://github.com/fluttercandies/extended_tabs) | A powerful official extension library of Tab/TabBar/TabView, which support to scroll ancestor or child Tabs when current is overscroll, and set scroll direction and cache extent. | 231 | 2023-10-27T04:48:25Z |
-| [flutter_scrollview_observer](https://github.com/fluttercandies/flutter_scrollview_observer) | A widget for observing data related to the child widgets being displayed in a scrollview. | 224 | 2023-10-28T05:56:43Z |
+| [flutter_scrollview_observer](https://github.com/fluttercandies/flutter_scrollview_observer) | A widget for observing data related to the child widgets being displayed in a scrollview. | 223 | 2023-10-28T11:36:06Z |
 | [pull_to_refresh_notification](https://github.com/fluttercandies/pull_to_refresh_notification) | Flutter plugin for building pull to refresh effects with PullToRefreshNotification and PullToRefreshContainer quickly. | 178 | 2023-10-11T13:17:33Z |
 | [flutter-interactive-chart](https://github.com/fluttercandies/flutter-interactive-chart) | A candlestick chart that supports pinch-to-zoom and panning. | 161 | 2023-10-26T04:49:29Z |
 | [flutter_interactional_widget](https://github.com/fluttercandies/flutter_interactional_widget) | <no description> | 160 | 2023-10-20T11:37:10Z |
@@ -53,7 +53,7 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [assets_generator](https://github.com/fluttercandies/assets_generator) | The flutter tool to generate assets‘s configs(yaml) and consts automatically for single project and multiple modules. | 34 | 2023-10-20T09:32:36Z |
 | [flutter_record_mp3](https://github.com/fluttercandies/flutter_record_mp3) | flutter record mp3 using the native api | 34 | 2023-08-25T03:12:32Z |
 | [flutter_bdface_collect](https://github.com/fluttercandies/flutter_bdface_collect) | a baidu face offline collect plugin. Only Android and IOS platforms are supported.  百度人脸离线采集插件，只支持安卓和iOS。 | 34 | 2023-09-08T18:23:08Z |
-| [flutter_tilt](https://github.com/fluttercandies/flutter_tilt) | 👀 Easily apply tilt parallax hover effects for Flutter, which supports tilt, light, shadow effects, and gyroscope sensors \| 在 Flutter 上轻松创建倾斜视差悬停效果，支持倾斜、光照、阴影效果和陀螺仪传感器 | 33 | 2023-10-28T03:24:51Z |
+| [flutter_tilt](https://github.com/fluttercandies/flutter_tilt) | 👀 Easily apply tilt parallax hover effects for Flutter, which supports tilt, light, shadow effects, and gyroscope sensors \| 在 Flutter 上轻松创建倾斜视差悬停效果，支持倾斜、光照、阴影效果和陀螺仪传感器 | 34 | 2023-10-28T08:20:54Z |
 | [flutter_ali_auth](https://github.com/fluttercandies/flutter_ali_auth) | Flutter Ali Auth Plugin 阿里云一键登录Flutter插件 | 30 | 2023-09-07T12:13:14Z |
 | [flutter_draggable_container](https://github.com/fluttercandies/flutter_draggable_container) | A Draggable Widget Container | 26 | 2023-06-09T07:57:20Z |
 | [http_client_helper](https://github.com/fluttercandies/http_client_helper) | A Flutter plugin for http request with cancel and retry fuctions. | 24 | 2023-10-12T01:09:47Z |
@@ -103,5 +103,5 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 
 </details>
 
-Created on 2023-10-28T08:12:16+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+Created on 2023-10-28T12:18:12+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
 
