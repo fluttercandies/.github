@@ -54,7 +54,7 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [flutter_record_mp3](https://github.com/fluttercandies/flutter_record_mp3) | flutter record mp3 using the native api | 34 | 2023-08-25T03:12:32Z |
 | [flutter_bdface_collect](https://github.com/fluttercandies/flutter_bdface_collect) | a baidu face offline collect plugin. Only Android and IOS platforms are supported.  百度人脸离线采集插件，只支持安卓和iOS。 | 34 | 2023-09-08T18:23:08Z |
 | [flutter_ali_auth](https://github.com/fluttercandies/flutter_ali_auth) | Flutter Ali Auth Plugin 阿里云一键登录Flutter插件 | 30 | 2023-09-07T12:13:14Z |
-| [flutter_tilt](https://github.com/fluttercandies/flutter_tilt) | 👀 Easily apply tilt parallax hover effects for Flutter, which supports tilt, light, shadow effects, and gyroscope sensors \| 在 Flutter 上轻松创建倾斜视差悬停效果，支持倾斜、光照、阴影效果和陀螺仪传感器 | 29 | 2023-10-26T03:24:24Z |
+| [flutter_tilt](https://github.com/fluttercandies/flutter_tilt) | 👀 Easily apply tilt parallax hover effects for Flutter, which supports tilt, light, shadow effects, and gyroscope sensors \| 在 Flutter 上轻松创建倾斜视差悬停效果，支持倾斜、光照、阴影效果和陀螺仪传感器 | 30 | 2023-10-28T00:15:11Z |
 | [flutter_draggable_container](https://github.com/fluttercandies/flutter_draggable_container) | A Draggable Widget Container | 26 | 2023-06-09T07:57:20Z |
 | [http_client_helper](https://github.com/fluttercandies/http_client_helper) | A Flutter plugin for http request with cancel and retry fuctions. | 24 | 2023-10-12T01:09:47Z |
 | [baidupan](https://github.com/fluttercandies/baidupan) | Baidu net disk api for dart, 百度网盘的 dart 库 | 24 | 2023-10-15T13:13:58Z |
@@ -103,5 +103,5 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 
 </details>
 
-Created on 2023-10-27T20:10:57+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+Created on 2023-10-28T00:47:45+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
 
