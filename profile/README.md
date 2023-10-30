@@ -49,8 +49,8 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [extended_list](https://github.com/fluttercandies/extended_list) | extended list(ListView/GridView) support track collect garbage of children/viewport indexes, build lastChild as special child in the case that it is loadmore/no more item and enable to layout close to trailing. | 46 | 2023-10-06T14:44:31Z |
 | [flutter_juejin](https://github.com/fluttercandies/flutter_juejin) | https://juejin.cn in Flutter | 44 | 2023-10-26T14:20:04Z |
 | [ripple_backdrop_animate_route](https://github.com/fluttercandies/ripple_backdrop_animate_route) | A ripple animation with backdrop of route. | 43 | 2023-07-04T06:15:22Z |
+| [flutter_tilt](https://github.com/fluttercandies/flutter_tilt) | 👀 Easily apply tilt parallax hover effects for Flutter, which supports tilt, light, shadow effects, and gyroscope sensors \| 在 Flutter 上轻松创建倾斜视差悬停效果，支持倾斜、光照、阴影效果和陀螺仪传感器 | 36 | 2023-10-30T00:20:22Z |
 | [fconsole](https://github.com/fluttercandies/fconsole) | 一个用于调试的面板 | 35 | 2023-08-25T09:54:25Z |
-| [flutter_tilt](https://github.com/fluttercandies/flutter_tilt) | 👀 Easily apply tilt parallax hover effects for Flutter, which supports tilt, light, shadow effects, and gyroscope sensors \| 在 Flutter 上轻松创建倾斜视差悬停效果，支持倾斜、光照、阴影效果和陀螺仪传感器 | 35 | 2023-10-28T17:05:39Z |
 | [assets_generator](https://github.com/fluttercandies/assets_generator) | The flutter tool to generate assets‘s configs(yaml) and consts automatically for single project and multiple modules. | 34 | 2023-10-20T09:32:36Z |
 | [flutter_record_mp3](https://github.com/fluttercandies/flutter_record_mp3) | flutter record mp3 using the native api | 34 | 2023-08-25T03:12:32Z |
 | [flutter_bdface_collect](https://github.com/fluttercandies/flutter_bdface_collect) | a baidu face offline collect plugin. Only Android and IOS platforms are supported.  百度人脸离线采集插件，只支持安卓和iOS。 | 34 | 2023-09-08T18:23:08Z |
@@ -103,5 +103,5 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 
 </details>
 
-Created on 2023-10-29T20:10:36+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+Created on 2023-10-30T00:50:40+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
 
