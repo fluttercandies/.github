@@ -16,4 +16,6 @@ Flutter Candies (糖果群) 成立于 2019 年 2 月 14 日，聚集了一群热
 
 ## Organization Repositories
 
+&nbsp;&nbsp;&nbsp;&nbsp;[🍭 Dashboard](https://github.com/fluttercandies/packages)
+
 <!-- REPO-LIST -->
