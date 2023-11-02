@@ -1,10 +1,18 @@
 # Welcome to Flutter Candies
 
-Flutter Candies (糖果群), established on February 14, 2019, is a distinguished community comprising developers with a shared passion for Flutter. Our unwavering commitment is to incessantly create, maintain, and contribute to a suite of high-quality Flutter plugins and libraries (Flutter / Dart Packages). Our aim is to enhance the accessibility of Flutter, thereby facilitating developers in the expedited and efficient creation of superior Flutter applications.
+Flutter Candies (糖果社区), established on February 14, 2019, is a distinguished community comprising developers with a shared passion for Flutter. Our unwavering commitment is to incessantly create, maintain, and contribute to a suite of high-quality Flutter plugins and libraries (Flutter / Dart Packages). Our aim is to enhance the accessibility of Flutter, thereby facilitating developers in the expedited and efficient creation of superior Flutter applications.
 
-As of today, we have successfully open-sourced [55 practical packages](https://pub-web.flutter-io.cn/publishers/fluttercandies.com/packages) on pub.dev. However, our contributions extend significantly beyond this. We have also developed a comprehensive range of invaluable tools, APIs, and real-world projects. All of these initiatives are designed to provide robust support to Flutter developers at various stages of their careers, promoting rapid professional advancement.
+As of today, we have successfully open-sourced more than [50 practical packages](https://pub.dev/publishers/fluttercandies.com/packages) on pub.dev. However, our contributions extend significantly beyond this. We have also developed a comprehensive range of invaluable tools, APIs, and real-world projects. All of these initiatives are designed to provide robust support to Flutter developers at various stages of their careers, promoting rapid professional advancement.
 
 Our vision is to “Empower every developer by building a healthy, powerful, and secure Flutter ecosystem, TOGETHER”, we warmly welcome everyone to contribute the practical Flutter packages (little candies). If you share our objectives and vision, join us!
+
+# 欢迎来到 Flutter 糖果社区
+
+Flutter Candies (糖果群) 成立于 2019 年 2 月 14 日，聚集了一群热爱 Flutter 的开发者们，糖果群致力于通过持续创建、维护和贡献高质量的 Flutter 插件和库 (Flutter / Dart Packages)，让 Flutter 更易用，助力开发者们更快、更高效地构建优秀的 Flutter 应用。
+
+我们已经在 pub.dev 上开源了超过 [50 个](https://pub-web.flutter-io.cn/publishers/fluttercandies.com/packages) 实用的 packages，不仅如此，我们还构建了很多实用工具、API、实战项目以及优质的技术文章，帮助 Flutter 开发者们在职业生涯的不同阶段快速成长。
+
+我们希望号召和帮助更多开发者们为 Flutter 开发者更多实用的插件库 (小糖果)，如果你有同样的目标和理想，糖果群欢迎你的加入！
 
 ## Organization Repositories
 
@@ -15,13 +23,13 @@ Our vision is to “Empower every developer by building a healthy, powerful, and
 | [wechat_flutter](https://github.com/fluttercandies/wechat_flutter) | wechat_flutter is Flutter version WeChat, an excellent Flutter instant messaging IM open source library! | 2358 | 2023-11-01T07:39:40Z |
 | [extended_image](https://github.com/fluttercandies/extended_image) | A powerful official extension library of image, which support placeholder(loading)/ failed state, cache network, zoom pan image, photo view, slide out page, editor(crop,rotate,flip), paint custom etc. | 1757 | 2023-10-31T15:30:41Z |
 | [NeteaseCloudMusic](https://github.com/fluttercandies/NeteaseCloudMusic) | Flutter - NeteaseCloudMusic  Flutter 版本的网易云音乐 | 1748 | 2023-10-31T09:46:36Z |
-| [flutter_wechat_assets_picker](https://github.com/fluttercandies/flutter_wechat_assets_picker) | An image picker (also with video and audio) for Flutter projects based on the WeChat's UI. | 1349 | 2023-10-31T16:47:36Z |
-| [flutter_smart_dialog](https://github.com/fluttercandies/flutter_smart_dialog) | An elegant Flutter Dialog solution \| 一种更优雅的 Flutter Dialog 解决方案 | 932 | 2023-11-01T17:41:32Z |
+| [flutter_wechat_assets_picker](https://github.com/fluttercandies/flutter_wechat_assets_picker) | An image picker (also with video and audio) for Flutter projects based on the WeChat's UI. | 1348 | 2023-11-02T05:53:50Z |
+| [flutter_smart_dialog](https://github.com/fluttercandies/flutter_smart_dialog) | An elegant Flutter Dialog solution \| 一种更优雅的 Flutter Dialog 解决方案 | 931 | 2023-11-02T05:53:52Z |
 | [flutter_candies](https://github.com/fluttercandies/flutter_candies) | custom flutter candies(widgets) for you to build flutter app easily, enjoy it   | 791 | 2023-10-26T03:08:49Z |
 | [flutter_photo_manager](https://github.com/fluttercandies/flutter_photo_manager) | A Flutter plugin that provides images, videos, and audio abstraction management APIs without interface integration, available on Android, iOS, and macOS. | 601 | 2023-11-01T16:02:52Z |
 | [extended_text](https://github.com/fluttercandies/extended_text) | A powerful extended official text for Flutter, which supports Speical Text(Image,@somebody), Custom Background, Custom overFlow, Text Selection. | 578 | 2023-10-30T12:19:42Z |
 | [flutter_image_compress](https://github.com/fluttercandies/flutter_image_compress) | flutter image compress | 566 | 2023-10-31T16:47:34Z |
-| [extended_nested_scroll_view](https://github.com/fluttercandies/extended_nested_scroll_view) | extended nested scroll view to fix following issues.  1.pinned sliver header issue  2.inner scrollables in tabview sync issue  3.pull to refresh is not work. 4.do without ScrollController in NestedScrollView's body | 541 | 2023-10-26T07:26:36Z |
+| [extended_nested_scroll_view](https://github.com/fluttercandies/extended_nested_scroll_view) | extended nested scroll view to fix following issues.  1.pinned sliver header issue  2.inner scrollables in tabview sync issue  3.pull to refresh is not work. 4.do without ScrollController in NestedScrollView's body | 542 | 2023-11-02T06:03:19Z |
 | [flutter_custom_calendar](https://github.com/fluttercandies/flutter_custom_calendar) | Flutter的一个日历控件 | 495 | 2023-10-16T04:59:34Z |
 | [extended_text_field](https://github.com/fluttercandies/extended_text_field) | extended official text field to quickly build special text like inline image, @somebody, custom background etc. | 493 | 2023-10-30T19:38:45Z |
 | [like_button](https://github.com/fluttercandies/like_button) | Like Button is a flutter library that allows you to create a button with animation effects similar to Twitter's heart when you like something and animation effects to increase like count. | 415 | 2023-11-01T15:01:46Z |
@@ -108,5 +116,6 @@ Our vision is to “Empower every developer by building a healthy, powerful, and
 
 </details>
 
-Created on 2023-11-02T04:12:54+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+
+Created on 2023-11-02T06:03:48+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
 
