@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to Flutter Candies<br/>欢迎来到 Flutter 糖果社区</h1>
 
-![](https://github.com/fluttercandies/packages/raw/main/assets/cover.jpg)
+![FlutterCandies Cover](assets/cover.jpg)
 
 <details><summary>中文简介</summary>
 
