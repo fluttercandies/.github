@@ -16,7 +16,7 @@ Flutter Candies (糖果社区), established on February 14, 2019, is a distingui
 
 As of today, we have successfully open-sourced more than [50 practical packages](https://pub.dev/publishers/fluttercandies.com/packages) on pub.dev. However, our contributions extend significantly beyond this. We have also developed a comprehensive range of invaluable tools, APIs, and real-world projects. All of these initiatives are designed to provide robust support to Flutter developers at various stages of their careers, promoting rapid professional advancement.
 
-Our vision is to “Empower every developer by building a healthy, powerful, and secure Flutter ecosystem, TOGETHER”, we warmly welcome everyone to contribute the practical Flutter packages (little candies). If you share our objectives and vision, join us!
+Our vision is to "Empower every developer by building a healthy, powerful, and secure Flutter ecosystem, TOGETHER", we warmly welcome everyone to contribute the practical Flutter packages (little candies). If you share our objectives and vision, join us!
 
 ## Organization Repositories
 
