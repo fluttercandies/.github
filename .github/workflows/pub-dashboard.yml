@@ -2,8 +2,8 @@ name: pub-dashboard
 
 on:
   schedule:
-    # Runs every 4 hours
-    - cron: "0 0/4 * * *"
+    # Runs at 30 minutes past the hour, every 3 hours.
+    - cron: "30 0/3 * * *"
   push:
     branches: [ "main" ]
   pull_request:
