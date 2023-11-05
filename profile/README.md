@@ -20,7 +20,7 @@ Flutter Candies (糖果群) 成立于 2019 年 2 月 14 日，聚集了一群热
 
 | Name | Description | Stars | Latest Commit |
 | ---- | --- | ----------- | ------------- |
-| [wechat_flutter](https://github.com/fluttercandies/wechat_flutter) | wechat_flutter is Flutter version WeChat, an excellent Flutter instant messaging IM open source library! | 2362 | 2023-11-05T13:54:16Z |
+| [wechat_flutter](https://github.com/fluttercandies/wechat_flutter) | wechat_flutter is Flutter version WeChat, an excellent Flutter instant messaging IM open source library! | 2363 | 2023-11-05T18:47:47Z |
 | [extended_image](https://github.com/fluttercandies/extended_image) | A powerful official extension library of image, which support placeholder(loading)/ failed state, cache network, zoom pan image, photo view, slide out page, editor(crop,rotate,flip), paint custom etc. | 1759 | 2023-11-03T07:11:26Z |
 | [NeteaseCloudMusic](https://github.com/fluttercandies/NeteaseCloudMusic) | Flutter - NeteaseCloudMusic  Flutter 版本的网易云音乐 | 1750 | 2023-11-05T11:35:22Z |
 | [flutter_wechat_assets_picker](https://github.com/fluttercandies/flutter_wechat_assets_picker) | An image picker (also with video and audio) for Flutter projects based on the WeChat's UI. | 1348 | 2023-11-02T05:53:50Z |
@@ -40,7 +40,7 @@ Flutter Candies (糖果群) 成立于 2019 年 2 月 14 日，聚集了一群热
 | [loading_more_list](https://github.com/fluttercandies/loading_more_list) | A loading more list which supports ListView,GridView,WaterfallFlow and Slivers. | 320 | 2023-11-01T14:45:14Z |
 | [flutter_wechat_camera_picker](https://github.com/fluttercandies/flutter_wechat_camera_picker) | A camera picker (take photos and videos) for Flutter projects based on WeChat's UI. It's a standalone module of wechat_assets_picker yet it can be run separately. | 319 | 2023-10-26T04:07:39Z |
 | [extended_tabs](https://github.com/fluttercandies/extended_tabs) | A powerful official extension library of Tab/TabBar/TabView, which support to scroll ancestor or child Tabs when current is overscroll, and set scroll direction and cache extent. | 232 | 2023-11-01T17:39:24Z |
-| [flutter_scrollview_observer](https://github.com/fluttercandies/flutter_scrollview_observer) | A widget for observing data related to the child widgets being displayed in a scrollview. | 231 | 2023-11-03T15:48:10Z |
+| [flutter_scrollview_observer](https://github.com/fluttercandies/flutter_scrollview_observer) | A widget for observing data related to the child widgets being displayed in a scrollview. | 232 | 2023-11-05T18:25:53Z |
 | [pull_to_refresh_notification](https://github.com/fluttercandies/pull_to_refresh_notification) | Flutter plugin for building pull to refresh effects with PullToRefreshNotification and PullToRefreshContainer quickly. | 180 | 2023-11-04T14:16:54Z |
 | [flutter-interactive-chart](https://github.com/fluttercandies/flutter-interactive-chart) | A candlestick chart that supports pinch-to-zoom and panning. | 163 | 2023-11-05T14:40:14Z |
 | [flutter_interactional_widget](https://github.com/fluttercandies/flutter_interactional_widget) | <no description> | 161 | 2023-10-30T06:15:09Z |
@@ -117,5 +117,5 @@ Flutter Candies (糖果群) 成立于 2019 年 2 月 14 日，聚集了一群热
 </details>
 
 
-Created on 2023-11-05T16:12:46+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+Created on 2023-11-05T20:10:37+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
 
