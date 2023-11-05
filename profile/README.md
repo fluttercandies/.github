@@ -22,7 +22,7 @@ Flutter Candies (糖果群) 成立于 2019 年 2 月 14 日，聚集了一群热
 | ---- | --- | ----------- | ------------- |
 | [wechat_flutter](https://github.com/fluttercandies/wechat_flutter) | wechat_flutter is Flutter version WeChat, an excellent Flutter instant messaging IM open source library! | 2361 | 2023-11-04T02:17:33Z |
 | [extended_image](https://github.com/fluttercandies/extended_image) | A powerful official extension library of image, which support placeholder(loading)/ failed state, cache network, zoom pan image, photo view, slide out page, editor(crop,rotate,flip), paint custom etc. | 1759 | 2023-11-03T07:11:26Z |
-| [NeteaseCloudMusic](https://github.com/fluttercandies/NeteaseCloudMusic) | Flutter - NeteaseCloudMusic  Flutter 版本的网易云音乐 | 1749 | 2023-11-02T14:37:53Z |
+| [NeteaseCloudMusic](https://github.com/fluttercandies/NeteaseCloudMusic) | Flutter - NeteaseCloudMusic  Flutter 版本的网易云音乐 | 1750 | 2023-11-05T11:35:22Z |
 | [flutter_wechat_assets_picker](https://github.com/fluttercandies/flutter_wechat_assets_picker) | An image picker (also with video and audio) for Flutter projects based on the WeChat's UI. | 1348 | 2023-11-02T05:53:50Z |
 | [flutter_smart_dialog](https://github.com/fluttercandies/flutter_smart_dialog) | An elegant Flutter Dialog solution \| 一种更优雅的 Flutter Dialog 解决方案 | 934 | 2023-11-04T02:54:35Z |
 | [flutter_candies](https://github.com/fluttercandies/flutter_candies) | custom flutter candies(widgets) for you to build flutter app easily, enjoy it   | 791 | 2023-10-26T03:08:49Z |
@@ -117,5 +117,5 @@ Flutter Candies (糖果群) 成立于 2019 年 2 月 14 日，聚集了一群热
 </details>
 
 
-Created on 2023-11-05T08:12:53+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+Created on 2023-11-05T12:18:52+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
 
