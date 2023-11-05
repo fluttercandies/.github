@@ -20,11 +20,11 @@ Flutter Candies (糖果群) 成立于 2019 年 2 月 14 日，聚集了一群热
 
 | Name | Description | Stars | Latest Commit |
 | ---- | --- | ----------- | ------------- |
-| [wechat_flutter](https://github.com/fluttercandies/wechat_flutter) | wechat_flutter is Flutter version WeChat, an excellent Flutter instant messaging IM open source library! | 2361 | 2023-11-04T02:17:33Z |
+| [wechat_flutter](https://github.com/fluttercandies/wechat_flutter) | wechat_flutter is Flutter version WeChat, an excellent Flutter instant messaging IM open source library! | 2362 | 2023-11-05T13:54:16Z |
 | [extended_image](https://github.com/fluttercandies/extended_image) | A powerful official extension library of image, which support placeholder(loading)/ failed state, cache network, zoom pan image, photo view, slide out page, editor(crop,rotate,flip), paint custom etc. | 1759 | 2023-11-03T07:11:26Z |
 | [NeteaseCloudMusic](https://github.com/fluttercandies/NeteaseCloudMusic) | Flutter - NeteaseCloudMusic  Flutter 版本的网易云音乐 | 1750 | 2023-11-05T11:35:22Z |
 | [flutter_wechat_assets_picker](https://github.com/fluttercandies/flutter_wechat_assets_picker) | An image picker (also with video and audio) for Flutter projects based on the WeChat's UI. | 1348 | 2023-11-02T05:53:50Z |
-| [flutter_smart_dialog](https://github.com/fluttercandies/flutter_smart_dialog) | An elegant Flutter Dialog solution \| 一种更优雅的 Flutter Dialog 解决方案 | 934 | 2023-11-04T02:54:35Z |
+| [flutter_smart_dialog](https://github.com/fluttercandies/flutter_smart_dialog) | An elegant Flutter Dialog solution \| 一种更优雅的 Flutter Dialog 解决方案 | 935 | 2023-11-05T14:46:34Z |
 | [flutter_candies](https://github.com/fluttercandies/flutter_candies) | custom flutter candies(widgets) for you to build flutter app easily, enjoy it   | 791 | 2023-10-26T03:08:49Z |
 | [flutter_photo_manager](https://github.com/fluttercandies/flutter_photo_manager) | A Flutter plugin that provides images, videos, and audio abstraction management APIs without interface integration, available on Android, iOS, and macOS. | 601 | 2023-11-01T16:02:52Z |
 | [extended_text](https://github.com/fluttercandies/extended_text) | A powerful extended official text for Flutter, which supports Speical Text(Image,@somebody), Custom Background, Custom overFlow, Text Selection. | 578 | 2023-10-30T12:19:42Z |
@@ -42,7 +42,7 @@ Flutter Candies (糖果群) 成立于 2019 年 2 月 14 日，聚集了一群热
 | [extended_tabs](https://github.com/fluttercandies/extended_tabs) | A powerful official extension library of Tab/TabBar/TabView, which support to scroll ancestor or child Tabs when current is overscroll, and set scroll direction and cache extent. | 232 | 2023-11-01T17:39:24Z |
 | [flutter_scrollview_observer](https://github.com/fluttercandies/flutter_scrollview_observer) | A widget for observing data related to the child widgets being displayed in a scrollview. | 231 | 2023-11-03T15:48:10Z |
 | [pull_to_refresh_notification](https://github.com/fluttercandies/pull_to_refresh_notification) | Flutter plugin for building pull to refresh effects with PullToRefreshNotification and PullToRefreshContainer quickly. | 180 | 2023-11-04T14:16:54Z |
-| [flutter-interactive-chart](https://github.com/fluttercandies/flutter-interactive-chart) | A candlestick chart that supports pinch-to-zoom and panning. | 162 | 2023-11-03T03:16:06Z |
+| [flutter-interactive-chart](https://github.com/fluttercandies/flutter-interactive-chart) | A candlestick chart that supports pinch-to-zoom and panning. | 163 | 2023-11-05T14:40:14Z |
 | [flutter_interactional_widget](https://github.com/fluttercandies/flutter_interactional_widget) | <no description> | 161 | 2023-10-30T06:15:09Z |
 | [extended_image_library](https://github.com/fluttercandies/extended_image_library) |  package library for extended_image, extended_text and extended_text_field,provide common base class. | 145 | 2023-11-04T09:20:28Z |
 | [extended_sliver](https://github.com/fluttercandies/extended_sliver) | A powerful extension library of Sliver, which include SliverToNestedScrollBoxAdapter， SliverPinnedPersistentHeader, SliverPinnedToBoxAdapter and ExtendedSliverAppbar. | 137 | 2023-10-19T02:33:17Z |
@@ -117,5 +117,5 @@ Flutter Candies (糖果群) 成立于 2019 年 2 月 14 日，聚集了一群热
 </details>
 
 
-Created on 2023-11-05T12:18:52+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+Created on 2023-11-05T16:12:46+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
 
