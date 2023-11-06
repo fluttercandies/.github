@@ -39,7 +39,7 @@ Flutter Candies (糖果群) 成立于 2019 年 2 月 14 日，聚集了一群热
 | [waterfall_flow](https://github.com/fluttercandies/waterfall_flow) | A Flutter grid view which supports waterfall flow layout. | 327 | 2023-10-24T13:39:38Z |
 | [loading_more_list](https://github.com/fluttercandies/loading_more_list) | A loading more list which supports ListView,GridView,WaterfallFlow and Slivers. | 320 | 2023-11-01T14:45:14Z |
 | [flutter_wechat_camera_picker](https://github.com/fluttercandies/flutter_wechat_camera_picker) | A camera picker (take photos and videos) for Flutter projects based on WeChat's UI. It's a standalone module of wechat_assets_picker yet it can be run separately. | 320 | 2023-11-06T01:13:18Z |
-| [flutter_scrollview_observer](https://github.com/fluttercandies/flutter_scrollview_observer) | A widget for observing data related to the child widgets being displayed in a scrollview. | 233 | 2023-11-06T03:01:56Z |
+| [flutter_scrollview_observer](https://github.com/fluttercandies/flutter_scrollview_observer) | A widget for observing data related to the child widgets being displayed in a scrollview. | 234 | 2023-11-06T05:02:03Z |
 | [extended_tabs](https://github.com/fluttercandies/extended_tabs) | A powerful official extension library of Tab/TabBar/TabView, which support to scroll ancestor or child Tabs when current is overscroll, and set scroll direction and cache extent. | 232 | 2023-11-01T17:39:24Z |
 | [pull_to_refresh_notification](https://github.com/fluttercandies/pull_to_refresh_notification) | Flutter plugin for building pull to refresh effects with PullToRefreshNotification and PullToRefreshContainer quickly. | 180 | 2023-11-04T14:16:54Z |
 | [flutter-interactive-chart](https://github.com/fluttercandies/flutter-interactive-chart) | A candlestick chart that supports pinch-to-zoom and panning. | 163 | 2023-11-05T14:40:14Z |
@@ -117,5 +117,5 @@ Flutter Candies (糖果群) 成立于 2019 年 2 月 14 日，聚集了一群热
 </details>
 
 
-Created on 2023-11-06T04:13:20+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+Created on 2023-11-06T08:14:51+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
 
