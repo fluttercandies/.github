@@ -1,12 +1,12 @@
 <h1 align="center">Welcome to Flutter Candies<br/>欢迎来到 Flutter 糖果社区</h1>
 
-![FlutterCandies Cover](https://raw.githubusercontent.com/fluttercandies/.github/main/assets/cover.png)
+![FlutterCandies Cover](https://raw.githubusercontent.com/fluttercandies/.github/main/assets/banner.png)
 
 <details><summary>中文简介</summary>
 
 Flutter Candies (糖果群) 成立于 2019 年 2 月 14 日，聚集了一群热爱 Flutter 的开发者们，糖果群致力于通过持续创建、维护和贡献高质量的 Flutter 插件和库 (Flutter / Dart Packages)，让 Flutter 更易用，助力开发者们更快、更高效地构建优秀的 Flutter 应用。
 
-我们已经在 pub.dev 上开源了 [<!-- md:PubDashboard-total start -->0<!-- md:PubDashboard-total end --> 个](https://github.com/fluttercandies/packages) 实用的 packages，不仅如此，我们还构建了很多实用工具、API、实战项目以及优质的技术文章，帮助 Flutter 开发者们在职业生涯的不同阶段快速成长。
+我们已经在 pub.dev 上开源了 [<!-- md:PubDashboard-total begin -->0<!-- md:PubDashboard-total end --> 个](https://github.com/fluttercandies/packages) 实用的 packages，不仅如此，我们还构建了很多实用工具、API、实战项目以及优质的技术文章，帮助 Flutter 开发者们在职业生涯的不同阶段快速成长。
 
 我们希望号召和帮助更多开发者们为 Flutter 开发者更多实用的插件库 (小糖果)，如果你有同样的目标和理想，糖果群欢迎你的加入！
 
@@ -14,7 +14,7 @@ Flutter Candies (糖果群) 成立于 2019 年 2 月 14 日，聚集了一群热
 
 Flutter Candies (糖果社区), established on February 14, 2019, is a distinguished community comprising developers with a shared passion for Flutter. Our unwavering commitment is to incessantly create, maintain, and contribute to a suite of high-quality Flutter plugins and libraries (Flutter / Dart Packages). Our aim is to enhance the accessibility of Flutter, thereby facilitating developers in the expedited and efficient creation of superior Flutter applications.
 
-As of today, we have successfully open-sourced [<!-- md:PubDashboard-total start -->0<!-- md:PubDashboard-total end --> practical packages](https://github.com/fluttercandies/packages) on pub.dev. However, our contributions extend significantly beyond this. We have also developed a comprehensive range of invaluable tools, APIs, and real-world projects. All of these initiatives are designed to provide robust support to Flutter developers at various stages of their careers, promoting rapid professional advancement.
+As of today, we have successfully open-sourced [<!-- md:PubDashboard-total begin -->0<!-- md:PubDashboard-total end --> practical packages](https://github.com/fluttercandies/packages) on pub.dev. However, our contributions extend significantly beyond this. We have also developed a comprehensive range of invaluable tools, APIs, and real-world projects. All of these initiatives are designed to provide robust support to Flutter developers at various stages of their careers, promoting rapid professional advancement.
 
 Our vision is to "Empower every developer by building a healthy, powerful, and secure Flutter ecosystem, TOGETHER", we warmly welcome everyone to contribute the practical Flutter packages (little candies). If you share our objectives and vision, join us!
 
@@ -22,7 +22,7 @@ Our vision is to "Empower every developer by building a healthy, powerful, and s
 
 <details><summary>🍭 Packages</summary>
 
-<!-- md:PubDashboard start -->
+<!-- md:PubDashboard begin -->
 <!-- md:PubDashboard end -->
 
 </details>
@@ -73,7 +73,7 @@ Our vision is to "Empower every developer by building a healthy, powerful, and s
 | [flutter_image_compress](https://github.com/fluttercandies/flutter_image_compress) | flutter image compress | 615 | 2024-06-07T11:35:05Z |
 | [extended_nested_scroll_view](https://github.com/fluttercandies/extended_nested_scroll_view) | extended nested scroll view to fix following issues.  1.pinned sliver header issue  2.inner scrollables in tabview sync issue  3.pull to refresh is not work. 4.do without ScrollController in NestedScrollView's body | 586 | 2024-06-12T06:51:00Z |
 | [FlutterJsonBeanFactory](https://github.com/fluttercandies/FlutterJsonBeanFactory) | What I do is generate dart beans based on json, as well as generics parameters and json build instances | 558 | 2024-06-04T09:42:20Z |
-| [extended_text_field](https://github.com/fluttercandies/extended_text_field) | extended official text field to quickly build special text like inline image, @somebody, custom background etc. | 534 | 2024-06-09T14:54:40Z |
+| [extended_text_field](https://github.com/fluttercandies/extended_text_field) | extended official text field to quickly build special text like inline image, @somebody, custom background etc. | 535 | 2024-06-12T08:37:00Z |
 | [flutter_custom_calendar](https://github.com/fluttercandies/flutter_custom_calendar) | Flutter的一个日历控件 | 499 | 2024-05-27T01:31:17Z |
 | [like_button](https://github.com/fluttercandies/like_button) | Like Button is a flutter library that allows you to create a button with animation effects similar to Twitter's heart when you like something and animation effects to increase like count. | 451 | 2024-06-06T10:02:18Z |
 | [flutter_image_editor](https://github.com/fluttercandies/flutter_image_editor) | Flutter plugin, support android/ios.Support crop, flip, rotate, color martix, mix image, add text. merge multi images. | 396 | 2024-06-11T19:17:23Z |
@@ -121,7 +121,7 @@ Our vision is to "Empower every developer by building a healthy, powerful, and s
 | [ios_willpop_transition_theme](https://github.com/fluttercandies/ios_willpop_transition_theme) | A Flutter package to solve the conflict between ios sliding back and Willpop | 17 | 2023-10-20T10:53:03Z |
 | [flutter_learning_tests](https://github.com/fluttercandies/flutter_learning_tests) | 学习 Flutter 路上的点滴及小测~ | 16 | 2024-04-02T17:40:38Z |
 | [flutter_mlkit_scan_plugin](https://github.com/fluttercandies/flutter_mlkit_scan_plugin) | <no description> | 15 | 2024-04-02T17:40:41Z |
-| [packages](https://github.com/fluttercandies/packages) | Custom Flutter Candies (packages) for you to easily build your Flutter app.  Enjoy it! | 15 | 2024-06-12T08:08:19Z |
+| [packages](https://github.com/fluttercandies/packages) | Custom Flutter Candies (packages) for you to easily build your Flutter app.  Enjoy it! | 15 | 2024-06-12T08:40:26Z |
 | [saver_gallery](https://github.com/fluttercandies/saver_gallery) | <no description> | 12 | 2024-04-28T08:56:24Z |
 | [candies_analyzer_plugin](https://github.com/fluttercandies/candies_analyzer_plugin) | The plugin to help create custom analyzer plugin quickly and provide some useful lints and get suggestion and auto import for extension member. | 12 | 2024-02-23T08:29:14Z |
 | [flutter_candies_gallery](https://github.com/fluttercandies/flutter_candies_gallery) | flutter_candies | 11 | 2024-01-06T20:36:41Z |
@@ -160,5 +160,5 @@ Our vision is to "Empower every developer by building a healthy, powerful, and s
 </details>
 
 
-Generated by [workflow](https://github.com/fluttercandies/.github-workflow/blob/main/.github/workflows/update-fluttercandies-profile-readme.yml) at 2024-06-12T08:09:05+00:00 
+Generated by [workflow](https://github.com/fluttercandies/.github-workflow/blob/main/.github/workflows/update-fluttercandies-profile-readme.yml) at 2024-06-12T08:47:01+00:00 
 
