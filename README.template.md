@@ -22,7 +22,7 @@ Our vision is to "Empower every developer by building a healthy, powerful, and s
 
 <details><summary>🍭 Packages</summary>
 
-- <sub>Other sort: [👍pubLikes](https://github.com/fluttercandies/packages/blob/main/packages/sort_by_pubLikes.md) | [⭐githubStars](https://github.com/fluttercandies/packages/blob/main/packages/sort_by_githubStars.md)</sub>  
+- <sub>Other sort: [👍pubLikes](https://github.com/fluttercandies/packages/blob/main/packages/sort_by_pubLikes.md) | [📄pubDownloads](https://github.com/fluttercandies/packages/blob/main/packages/sort_by_pubDownloads.md) | [⭐githubStars](https://github.com/fluttercandies/packages/blob/main/packages/sort_by_githubStars.md)</sub>  
 
 <!-- md:PubDashboard begin -->
 <!-- md:PubDashboard end -->
