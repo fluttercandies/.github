@@ -1,1 +1,67 @@
-abc: 2
+version: 2
+updates:
+  # shields.io dependencies
+  - package-ecosystem: npm
+    directory: '/'
+    schedule:
+      interval: weekly
+      day: friday
+      time: '12:00'
+    open-pull-requests-limit: 99
+    rebase-strategy: disabled
+    ignore:
+      # https://github.com/badges/shields/issues/7324
+      # https://github.com/badges/shields/issues/7447
+      # we're stuck with these versions until Safari is compatible with lookbehind regex syntax
+      # https://caniuse.com/js-regexp-lookbehind
+      - dependency-name: 'decamelize'
+      - dependency-name: 'humanize-string'
+    groups:
+      # All official @docusaurus/* packages should have the exact same version as @docusaurus/core.
+      # From https://docs.github.com/en/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file#groups:
+      # "You cannot apply a single grouping set of rules to both version updates and security
+      # updates [...] you must define two, separately named, grouping sets of rules"
+      # See https://github.com/badges/shields/issues/10242 for more information.
+      docusaurus-version-updates:
+        applies-to: version-updates
+        patterns:
+          - '@docusaurus/*'
+      docusaurus-security-updates:
+        applies-to: security-updates
+        patterns:
+          - '@docusaurus/*'
+  # badge-maker package dependencies
+  - package-ecosystem: npm
+    directory: '/badge-maker'
+    schedule:
+      interval: weekly
+      day: friday
+      time: '12:00'
+    open-pull-requests-limit: 99
+    rebase-strategy: disabled
+
+  # GH actions
+  - package-ecosystem: 'github-actions'
+    # all composite actions must be individually listed here
+    # https://github.com/dependabot/dependabot-core/issues/6704
+    directories:
+      - '/'
+      - '/.github/actions/core-tests'
+      - '/.github/actions/integration-tests'
+      - '/.github/actions/package-tests'
+      - '/.github/actions/service-tests'
+      - '/.github/actions/setup'
+    schedule:
+      interval: weekly
+    open-pull-requests-limit: 99
+    rebase-strategy: disabled
+
+    # docusaurus-swizzled-warning package dependencies
+  - package-ecosystem: npm
+    directory: '/.github/actions/docusaurus-swizzled-warning'
+    schedule:
+      interval: weekly
+      day: friday
+      time: '12:00'
+    open-pull-requests-limit: 99
+    rebase-strategy: disabled
