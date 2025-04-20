@@ -1,6 +1,10 @@
+![FlutterCandies](https://raw.githubusercontent.com/fluttercandies/.github/main/assets/banner.png)
+
+<br/>
+
 <h1 align="center">Welcome to Flutter Candies<br/>欢迎来到 Flutter 糖果社区</h1>
 
-![FlutterCandies Cover](https://raw.githubusercontent.com/fluttercandies/.github/main/assets/banner.png)
+<p align="center"><a href="https://qm.qq.com/q/ZyJbSVjfSU"><img src="https://img.shields.io/badge/dynamic/yaml?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffluttercandies%2F.github%2Frefs%2Fheads%2Fmain%2Fdata.yml&query=%24.qq_group_number&style=for-the-badge&label=QQ%E7%BE%A4&logo=qq&color=1DACE8" /></a></p>
 
 <details><summary>中文简介</summary>
 
