@@ -75,7 +75,7 @@ Our vision is to "Empower every developer by building a healthy, powerful, and s
 | [flutter_candies](https://github.com/fluttercandies/flutter_candies) | custom flutter candies(widgets) for you to build flutter app easily, enjoy it   | 784 | 2026-07-04T20:15:22Z |
 | [flutter_photo_manager](https://github.com/fluttercandies/flutter_photo_manager) | A Flutter plugin that provides images, videos, and audio abstraction management APIs without interface integration, available on Android, iOS, macOS and OpenHarmony. | 768 | 2026-07-20T03:57:15Z |
 | [extended_text](https://github.com/fluttercandies/extended_text) | A powerful extended official text for Flutter, which supports Speical Text(Image,@somebody), Custom Background, Custom overFlow, Text Selection. | 727 | 2026-07-12T08:49:48Z |
-| [flutter_image_compress](https://github.com/fluttercandies/flutter_image_compress) | Compresses image with native plugin (ObjC/Kotlin) on Flutter. Works on Android, iOS, macOS, Web, OpenHarmony. | 688 | 2026-07-22T16:27:23Z |
+| [flutter_image_compress](https://github.com/fluttercandies/flutter_image_compress) | Compresses image with native plugin (ObjC/Kotlin) on Flutter. Works on Android, iOS, macOS, Web, OpenHarmony. | 689 | 2026-07-23T09:14:03Z |
 | [extended_nested_scroll_view](https://github.com/fluttercandies/extended_nested_scroll_view) | extended nested scroll view to fix following issues.  1.pinned sliver header issue  2.inner scrollables in tabview sync issue  3.pull to refresh is not work. 4.do without ScrollController in NestedScrollView's body | 653 | 2026-07-18T07:35:58Z |
 | [flutter_scrollview_observer](https://github.com/fluttercandies/flutter_scrollview_observer) | A widget for observing data related to the child widgets being displayed in a ScrollView. Maintainer: @LinXunFeng | 618 | 2026-07-10T10:04:42Z |
 | [extended_text_field](https://github.com/fluttercandies/extended_text_field) | extended official text field to quickly build special text like inline image, @somebody, custom background etc. | 612 | 2026-07-20T15:42:17Z |
@@ -92,7 +92,7 @@ Our vision is to "Empower every developer by building a healthy, powerful, and s
 | [flutter_drawing_board](https://github.com/fluttercandies/flutter_drawing_board) | A new Flutter package of drawing board | 238 | 2026-07-11T12:59:16Z |
 | [pull_to_refresh_notification](https://github.com/fluttercandies/pull_to_refresh_notification) | Flutter plugin for building pull to refresh effects with PullToRefreshNotification and PullToRefreshContainer quickly. | 201 | 2026-05-25T09:52:01Z |
 | [flutter_novel](https://github.com/fluttercandies/flutter_novel) | 一款开源的在线小说阅读app,使用flutter进行开发。实现了搜索、观看、收藏、阅读历史、自定义背景、字体、颜色等功能。（An open-source online novel reading app developed using Flutter. Implemented functions such as searching, viewing, bookmarking, reading history, customizing backgrounds, fonts, colors, etc. | 189 | 2026-07-11T04:14:18Z |
-| [extended_image_library](https://github.com/fluttercandies/extended_image_library) |  package library for extended_image, extended_text and extended_text_field,provide common base class. | 185 | 2026-06-16T04:45:49Z |
+| [extended_image_library](https://github.com/fluttercandies/extended_image_library) |  package library for extended_image, extended_text and extended_text_field,provide common base class. | 184 | 2026-07-23T08:49:44Z |
 | [extended_sliver](https://github.com/fluttercandies/extended_sliver) | A powerful extension library of Sliver, which include SliverToNestedScrollBoxAdapter， SliverPinnedPersistentHeader, SliverPinnedToBoxAdapter and ExtendedSliverAppbar. | 173 | 2026-03-31T15:08:01Z |
 | [flutter_interactional_widget](https://github.com/fluttercandies/flutter_interactional_widget) | <no description> | 165 | 2026-05-25T10:04:54Z |
 | [ff_annotation_route](https://github.com/fluttercandies/ff_annotation_route) | Provide route generator to create route map quickly by annotations. | 126 | 2026-06-04T02:17:26Z |
@@ -111,7 +111,7 @@ Our vision is to "Empower every developer by building a healthy, powerful, and s
 | [extended_list](https://github.com/fluttercandies/extended_list) | extended list(ListView/GridView) support track collect garbage of children/viewport indexes, build lastChild as special child in the case that it is loadmore/no more item and enable to layout close to trailing. | 56 | 2026-05-25T09:56:56Z |
 | [dpad](https://github.com/fluttercandies/dpad) | Flutter TV D-pad navigation system - as simple as native Android development | 56 | 2026-07-08T09:36:13Z |
 | [flutter_juejin](https://github.com/fluttercandies/flutter_juejin) | https://juejin.cn in Flutter | 49 | 2026-05-29T09:48:56Z |
-| [packages](https://github.com/fluttercandies/packages) | Custom Flutter Candies (packages) for you to easily build your Flutter app.  Enjoy it! | 49 | 2026-07-23T06:32:36Z |
+| [packages](https://github.com/fluttercandies/packages) | Custom Flutter Candies (packages) for you to easily build your Flutter app.  Enjoy it! | 49 | 2026-07-23T10:24:52Z |
 | [assets_generator](https://github.com/fluttercandies/assets_generator) | The flutter tool to generate assets‘s configs(yaml) and consts automatically for single project and multiple modules. | 42 | 2026-06-04T12:30:39Z |
 | [flutter_bdface_collect](https://github.com/fluttercandies/flutter_bdface_collect) | a baidu face offline collect plugin. Only Android and IOS platforms are supported.  百度人脸离线采集插件，只支持安卓和iOS。 | 42 | 2026-05-25T09:59:49Z |
 | [saver_gallery](https://github.com/fluttercandies/saver_gallery) | Save images and other media files (such as videos) directly to the Android and iOS gallery. | 38 | 2026-06-23T06:35:14Z |
@@ -175,5 +175,5 @@ Our vision is to "Empower every developer by building a healthy, powerful, and s
 </details>
 
 
-Generated by [workflow](https://github.com/fluttercandies/.github-workflow/blob/main/.github/workflows/update-fluttercandies-profile-readme.yml) at 2026-07-23T06:35:11+00:00 
+Generated by [workflow](https://github.com/fluttercandies/.github-workflow/blob/main/.github/workflows/update-fluttercandies-profile-readme.yml) at 2026-07-23T10:30:13+00:00 
 
